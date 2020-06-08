@@ -5,9 +5,12 @@ Brugsevaart,,Q12994,way
 Esperantostraat,,Q143,way
 "Gebroeders Van Eyckstraat",,Q77577637,way
 "Gezusters Lovelingstraat",,Q77578636,way
+Houtduifstraat,,Q26026,way
+Pimpelmeesstraat,,Q25404,way
 "Victoria Regiapark",,Q33130427,way
 "Willem Tellstraat",,Q30908,way
 Wittekaproenenplein,,Q2329759,way
+Zilvermeeuwstraat,,Q28236,way
 "'t Stuk",,,way
 Aalbessenlaan,,,way
 Aalscholverstraat,,,way
@@ -41,9 +44,7 @@ Adalwinstraat,,,way
 Adelaarsstraat,,,way
 Admiraaldreef,,,way
 "Adolf Kervynstraat",,,way
-"Adolf Papeleupark",,,way
 "Adolf Samuëlstraat",,,way
-"Adolf Van Ooteghemstraat",,,way
 "Adolphe Pégoudlaan",,,way
 "Adriaan Pietersstraat",,,way
 "Adrien De Gerlachestraat",,,way
@@ -62,6 +63,7 @@ Ajuinmarktstraat,,,way
 Akkerhage,,,way
 Akkerstraat,,,way
 Akkerwindelaan,,,way
+Albaliweg,,,way
 Albaststraat,,,way
 Albatrosstraat,,,way
 "Albert Baertsoenkaai",,,way
@@ -85,6 +87,7 @@ Amaryllislaan,,,way
 Ambachtstraat,,,way
 Ambassadeursweg,,,way
 Amerikalaan,,,way
+Amethistpad,,,way
 "André Denysbrug",,,way
 Anemoonstraat,,,way
 Anjelierstraat,,,way
@@ -106,7 +109,6 @@ Arbedkaai,,,way
 Arduinstraat,,,way
 Arendstraat,,,way
 "Armand Bourdonlaan",,,way
-"Armand Lonquestraat",,,way
 Arsenaalstraat,,,way
 "Arthur Van Laethemstraat",,,way
 Asfilstraat,,,way
@@ -116,7 +118,6 @@ Assenedestraat,,,way
 Asterdreef,,,way
 Atletiekplein,,,way
 "August Van Bockxstaelestraat",,,way
-"August Van Lokerenstraat",,,way
 "Auguste Van Ooststraat",,,way
 "Augustijn Moreelsstraat",,,way
 Augustijnenkaai,,,way
@@ -530,8 +531,10 @@ Eksmere,,,way
 Eksterstraat,,,way
 Elfjulistraat,,,way
 Elfnovemberstraat,,,way
+"Elisabeth Drorypad",,,way
 "Elise Grandprezstraat",,,way
 "Elsa Guyssenspad",,,way
+Elsakker,,,way
 Elshout,,,way
 Elshoutpad,,,way
 Elsstraat,,,way
@@ -913,7 +916,6 @@ Hospitaalbrug,,,way
 Hospitaalstraat,,,way
 Houtbriel,,,way
 Houtdoklaan,,,way
-Houtduifstraat,,,way
 Houtemlaan,,,way
 Houthulststraat,,,way
 Houtjen,,,way
@@ -1214,6 +1216,7 @@ Koraalwortelstraat,,,way
 Korenbloemstraat,,,way
 Korenlei,,,way
 Korenmarkt,,,way
+Korenstuk,,,way
 Korenveldstraat,,,way
 Korfdragerstraat,,,way
 Korhoenstraat,,,way
@@ -1286,6 +1289,7 @@ Kwaadveld,,,way
 Kwadenplasstraat,,,way
 Kwakkelstraat,,,way
 Kwartelstraat,,,way
+Kwartspad,,,way
 Kweepeerstraat,,,way
 Kwikstaartlaan,,,way
 "La Sapinière",,,way
@@ -1350,7 +1354,6 @@ Lentestraat,,,way
 "Leo Tertzweillaan",,,way
 "Leon De Loofstraat",,,way
 "Leon Sarteelplein",,,way
-"Leon Sarteelstraat",,,way
 "Leonard De Laviestraat",,,way
 "Leonie Rammeloostraat",,,way
 Lepelaarstraat,,,way
@@ -1376,6 +1379,8 @@ Lindemeers,,,way
 Lindenlei,,,way
 Lindestraat,,,way
 Lindestuk,,,way
+Liniestraat,,,way
+Linistraat,,,way
 Linnenstraat,,,way
 Lisbloemstraat,,,way
 Lisdoddestraat,,,way
@@ -1448,7 +1453,6 @@ Mantelhof,,,way
 Marathonstraat,,,way
 Marcastraat,,,way
 "Marcel Herpelinckstraat",,,way
-"Marcella van Hoeckestraat",,,way
 "Marco Polostraat",,,way
 "Marguerite Legotstraat",,,way
 "Maria Baersstraat",,,way
@@ -1475,8 +1479,8 @@ Matrozenstraat,,,way
 Mattestede,,,way
 "Maurice Claeysplein",,,way
 "Maurice Dewulflaan",,,way
+"Maurice Dupuislaan",,,way
 "Maurice Maeterlinckstraat",,,way
-"Maurice Sysstraat",,,way
 "Maurice Verdoncklaan",,,way
 "Maurits Gysselingstraat",,,way
 "Maurits Sabbestraat",,,way
@@ -1519,7 +1523,7 @@ Merelstraat,,,way
 Merendreesesteenweg,,,way
 Metselaarsstraat,,,way
 Meulenaarshoek,,,way
-Meulenbilkpad,,,way
+Meulenbilkstraat,,,way
 Meulenbroekstraat,,,way
 Meulestedebrug,,,way
 Meulestedekaai,,,way
@@ -1533,6 +1537,7 @@ Mijnhoutkaai,,,way
 Mimosastraat,,,way
 Minnemeers,,,way
 Mispelbilk,,,way
+Mizarweg,,,way
 Modderenmanpad,,,way
 Moerbezielaan,,,way
 Moerlandstraat,,,way
@@ -1795,7 +1800,6 @@ Pijlstraat,,,way
 Pijndersstraat,,,way
 Pijphoekstraat,,,way
 Pilorijnstraat,,,way
-Pimpelmeesstraat,,,way
 Pinguinstraat,,,way
 Pinksterbloemstraat,,,way
 Pioenstraat,,,way
@@ -1813,6 +1817,7 @@ Poekstraat,,,way
 Poel,,,way
 Poeljemarkt,,,way
 Poelsnepstraat,,,way
+Polarisstraat,,,way
 Polderkenslaan,,,way
 Politieke-Gevangenenlaan,,,way
 Pollaeredam,,,way
@@ -1870,6 +1875,7 @@ Ramskapellelaan,,,way
 Ramstraat,,,way
 Rapenburgstraat,,,way
 Rasphuisstraat,,,way
+Ratelaarsweg,,,way
 Ravensteinstraat,,,way
 Ravenstraat,,,way
 Raveschootstraat,,,way
@@ -1915,6 +1921,7 @@ Rijvisschestraat,,,way
 "Ringvaartweg Mariakerke",,,way
 Ringvaartweg-Wondelgem,,,way
 "Rita Gorrstraat",,,way
+"Rita Uyttendaelestraat",,,way
 Rivierstraat,,,way
 "Robert Rinskopflaan",,,way
 Robijnstraat,,,way
@@ -2113,6 +2120,7 @@ Sint-Simonstraat,,,way
 Sint-Theresiastraat,,,way
 Sint-Vincentiusplein,,,way
 Sint-Widostraat,,,way
+Siriusstraat,,,way
 Sisalstraat,,,way
 Skaldenbrug,,,way
 Skaldenstraat,,,way
@@ -2259,7 +2267,6 @@ Terhagen,,,way
 Terneuzenlaan,,,way
 Texasstraat,,,way
 Textielstraat,,,way
-"Theofiel Lybaertstraat",,,way
 "Theophiel De Jaegerstraat",,,way
 Theresianenbrug,,,way
 Theresianenstraat,,,way
@@ -2300,6 +2307,7 @@ Tuinstraat,,,way
 "Tuinwijk ter Heide",,,way
 Tuinwijklaan,,,way
 Tulpstraat,,,way
+Turkooispad,,,way
 Turrepoortsteeg,,,way
 "Tussen 't Pas",,,way
 "Tussen Bermen",,,way
@@ -2365,7 +2373,6 @@ Verschansingsstraat,,,way
 Ververijstraat,,,way
 Veurestraat,,,way
 Viaductstraat,,,way
-"Victor Braeckmanlaan",,,way
 "Victor Frisstraat",,,way
 "Victor Loreinstraat",,,way
 Victoriastraat,,,way
@@ -2380,7 +2387,6 @@ Vijfwindgatenstraat,,,way
 Vijverhof,,,way
 Vijvermeerspark,,,way
 Vijverstraat,,,way
-"Vincent Evrardlaan",,,way
 Vinderhoutsedam,,,way
 Vinkendal,,,way
 Vinkenlaan,,,way
@@ -2481,6 +2487,7 @@ Weegbreestraat,,,way
 Weerdestraat,,,way
 Weerstandsplein,,,way
 Wegelakker,,,way
+Wegelstuk,,,way
 Weidestraat,,,way
 Weldadigheidstraat,,,way
 Wellingstraat,,,way
@@ -2576,7 +2583,6 @@ Zegepraalstraat,,,way
 "Zeger van Kortrijkstraat",,,way
 Zeilschipstraat,,,way
 Zeilstraat,,,way
-"Zenobé Grammestraat",,,way
 Zesseptemberlaan,,,way
 Zestiengemeten,,,way
 Zeugsteeg,,,way
@@ -2619,6 +2625,7 @@ Zwaardsteeg,,,way
 Zwaluwstraat,,,way
 Zwanebloemstraat,,,way
 Zwanenberg,,,way
+Zwanenbulksken,,,way
 Zwartekatstraat,,,way
 Zwartekobenpad,,,way
 Zwartekobenstraat,,,way

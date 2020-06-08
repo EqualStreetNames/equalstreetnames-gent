@@ -29,10 +29,12 @@ name,gender,wikidata,type
 "Lucienne Herman-Michielsensstraat",F,Q2210215,way
 "Mabel Elwespad",F,Q77983246,way
 "Madeleine Schauvliegestraat",F,Q76882196,way
+"Marcella van Hoeckestraat",F,Q94422250,way
 "Marcelle Defay-Wibierstraat",F,Q76883315,way
 "Maria van Boergondiëstraat",F,Q157073,way
 Maria-Theresiastraat,F,Q131706,way
 "Marie Curiestraat",F,Q7186,way
+"Marie Sassepad",F,Q4499874,way
 "Marthe Versichelenstraat",F,Q21517986,way
 "Miriam Makebaplein",F,Q146256,way
 "Nadine Crappéstraat",F,Q47458538,way
@@ -58,7 +60,9 @@ Sint-Veerleplein,F,Q929800,way
 "Adolf Baeyensstraat",M,Q46998636,way
 "Adolf Daensstraat",M,Q2142943,way
 "Adolf Lootensstraat",M,Q4722117,way
+"Adolf Papeleupark",M,Q94555061,way
 "Adolf Petitstraat",M,Q2141457,way
+"Adolf Van Ooteghemstraat",M,Q94556459,way
 "Adolphe Della Faillelaan",M,Q11303367,way
 "Adriaan Walckiersdreef",M,Q77797668,way
 "Albert Schweitzerstraat",M,Q49325,way
@@ -76,10 +80,12 @@ Sint-Veerleplein,F,Q929800,way
 "Antoon Catriestraat",M,Q21644988,way
 "Antoon Sanderusstraat",M,Q2131492,way
 "Armand Heinsstraat",M,Q16801281,way
+"Armand Lonquestraat",M,Q13430522,way
 "Arthur Latourstraat",M,Q66388101,way
 "Arthur Verhaegenstraat",M,Q2181828,way
 "August Kekuléstraat",M,Q76784,way
 "August Sniedersstraat",M,Q2192202,way
+"August Van Lokerenstraat",M,Q20155132,way
 "August Vermeylenstraat",M,Q764378,way
 "August van Geertstraat",M,Q5711538,way
 "Bernard Montgomerydreef",M,Q152025,way
@@ -248,6 +254,7 @@ Sint-Veerleplein,F,Q929800,way
 "Lamoraal van Egmontstraat",M,Q435844,way
 "Laurent Delvauxstraat",M,Q510315,way
 "Leo Baekelandstraat",M,Q243442,way
+"Leon Sarteelstraat",M,Q21396055,way
 "Lieven Bauwensplein",M,Q2099801,way
 "Lieven Plumionplein",M,Q76795641,way
 "Lieven de Winnestraat",M,Q713128,way
@@ -265,6 +272,7 @@ Sint-Veerleplein,F,Q929800,way
 "Maurice De Weertstraat",M,Q20113638,way
 "Maurice Dupuislaan",M,Q1995079,way
 "Maurice Maeterlinckstraat",M,Q49747,way
+"Maurice Sysstraat",M,Q21646757,way
 "Michel Thieryhof",M,Q64504188,way
 "Napoleon Destanbergstraat",M,Q2162752,way
 "Napoleon de Pauwbrug",M,Q18654812,way
@@ -303,13 +311,17 @@ Sint-Machariusstraat,M,Q2069309,way
 "Steve Bikobrug",M,Q214473,way
 "Stijn Streuvelslaan",M,Q175669,way
 "Théodore Canneelpad",M,Q2373067,way
+"Theofiel Lybaertstraat",M,Q3526669,way
 "Thomas Edisonstraat",M,Q8743,way
 "Valentin Vaerwyckweg",M,Q2359127,way
+"Victor Braeckmanlaan",M,Q94427244,way
 "Victor Frisstraat",M,Q2406020,way
 "Victor Hortastraat",M,Q49744,way
+"Vincent Evrardlaan",M,Q95841252,way
 "Walter De Buckplein",M,Q14517521,way
 "Willem Wenemaerstraat",M,Q19360913,way
 "Willem van Guliklaan",M,Q195942,way
 "Winston Churchillplein",M,Q8016,way
 "Woodrow Wilsonplein",M,Q34296,relation
 "Zeger van Kortrijkstraat",M,Q77953925,way
+"Zenobé Grammestraat",M,Q247603,way
