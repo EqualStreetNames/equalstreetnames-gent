@@ -4,16 +4,22 @@ name,gender,wikidata,type
 "Amanda Foketstraat",F,Q77582580,way
 "Amelia Earhartlaan",F,Q3355,way
 "Annie Vande Wielebrug",F,Q81558553,way
+"Benazir Bhuttostraat",F,Q34413,way
 "Bertha De Vriesestraat",F,Q21517776,way
 "Berthe Springaelstraat",F,Q69574659,way
 "Cécile Cautermanstraat",F,Q18562298,way
 "Charlotte Despardstraat",F,Q432717,way
 "Christine D'haenhof",F,Q3224383,way
+"Edith Cavellstraat",F,Q237564,way
 "Elza Darcielstraat",F,Q3051713,way
 "Frieda Saeysstraat",F,Q22350893,way
 "Gatti de Gamondstraat",F,Q2407913,way
+"Gerty Corihof",F,Q204733,way
 "Gravin Johannastraat",F,Q466311,way
 "Hannah Arendtstraat",F,Q60025,way
+"Hélène Mallebranckestraat",F,Q98314987,way
+"Hilda Daneelsstraat",F,Q19953867,way
+"Homa Darabistraat",F,Q165488,way
 "Irma Lozinstraat",F,Q77579767,way
 "Isala Van Dieststraat",F,Q2551409,way
 "Jeanne Vignerystraat",F,Q15434583,way
@@ -29,12 +35,14 @@ name,gender,wikidata,type
 "Lucienne Herman-Michielsensstraat",F,Q2210215,way
 "Mabel Elwespad",F,Q77983246,way
 "Madeleine Schauvliegestraat",F,Q76882196,way
+"Mai Zetterlingstraat",F,Q236656,way
 "Marcella van Hoeckestraat",F,Q94422250,way
 "Marcelle Defay-Wibierstraat",F,Q76883315,way
 "Maria van Boergondiëstraat",F,Q157073,way
 Maria-Theresiastraat,F,Q131706,way
 "Marie Curiestraat",F,Q7186,way
 "Marie Sassepad",F,Q4499874,way
+"Martha Anthonisstraat",F,Q98398345,way
 "Marthe Versichelenstraat",F,Q21517986,way
 "Miriam Makebaplein",F,Q146256,way
 "Nadine Crappéstraat",F,Q47458538,way
@@ -43,6 +51,7 @@ Maria-Theresiastraat,F,Q131706,way
 "Regina de Meersmandreef",F,Q77953166,way
 "Regine Beerstraat",F,Q2736161,way
 "Roza Van De Voordestraat",F,Q78678482,way
+Sint-Aldegondestraat,F,Q271330,way
 Sint-Amelbergastraat,F,Q269344,way
 Sint-Annaplein,F,Q164294,way
 Sint-Annastraat,F,Q164294,way
@@ -50,6 +59,7 @@ Sint-Bernadettestraat,F,Q55398,way
 Sint-Coletastraat,F,Q768098,way
 Sint-Dorotheastraat,F,Q242274,way
 Sint-Veerleplein,F,Q929800,way
+"Sofie Schollstraat",F,Q76972,way
 "Suzanne Lilarstraat",F,Q1924889,way
 "Suzanne Tassierstraat",F,Q18613190,way
 "Vina Bovypark",F,Q2481655,way
@@ -65,12 +75,16 @@ Sint-Veerleplein,F,Q929800,way
 "Adolf Van Ooteghemstraat",M,Q94556459,way
 "Adolphe Della Faillelaan",M,Q11303367,way
 "Adriaan Walckiersdreef",M,Q77797668,way
+"Albert Baertsoenkaai",M,Q2830938,way
 "Albert Schweitzerstraat",M,Q49325,way
 "Albrecht Rodenbachstraat",M,Q2497011,way
+"Alexis Dallièrestraat",M,Q16528524,way
+"Alfons Biebuycklaan",M,Q98374924,way
 "Alfons Braeckmanlaan",M,Q29409921,way
 "Alfons Bynlaan",M,Q77798866,way
 "Alfred Vanderstegenlaan",M,Q968453,way
 "Aloïs Van de Vyverestraat",M,Q14992,way
+"Alphonse Claeys-Bouüaertdreef",M,Q78456403,way
 "Alphonse Claeys-Bouüaertlaan",M,Q78456403,way
 "Alphonse Sifferlaan",M,Q2539969,way
 "Amand Casier de ter Bekenlaan",M,Q11303523,way
@@ -79,6 +93,7 @@ Sint-Veerleplein,F,Q929800,way
 "Antonius Triestlaan",M,Q2149954,way
 "Antoon Catriestraat",M,Q21644988,way
 "Antoon Sanderusstraat",M,Q2131492,way
+"Antoon van Dyckstraat",M,Q150679,way
 "Armand Heinsstraat",M,Q16801281,way
 "Armand Lonquestraat",M,Q13430522,way
 "Arthur Latourstraat",M,Q66388101,way
@@ -95,19 +110,23 @@ Sint-Veerleplein,F,Q929800,way
 "Boudewijn van der Lorestraat",M,Q20963459,way
 "Camille D'havéstraat",M,Q22236649,way
 "Charles Andrieslaan",M,Q19988390,way
+"Charles De Costerstraat",M,Q315176,way
 "Charles Doudeletstraat",M,Q2282495,way
 "Charles Van Lerbergheplein",M,Q93871,way
 "Charles de Kerchovelaan",M,Q2400060,way
 "Charles de l'Épéeplein",M,Q860155,way
 "Corneel Heymanslaan",M,Q156482,way
 "Cornelis Sneyssonestraat",M,Q2138820,way
+"Cornelis de Schepperestraat",M,Q2296251,way
 "Cyriel Buyssestraat",M,Q628124,way
 "Daniël Kinetstraat",M,Q4868900,way
 "Daniël Mareskastraat",M,Q55232702,way
 "David 't Kindtplein",M,Q5241499,way
+"David Tenierslaan",M,Q622729,way
 "De Naeyerdreef",M,Q721781,way
 "Desiderius Erasmusstraat",M,Q43499,way
 "Désiré Fiévéstraat",M,Q15304690,way
+"Désiré Mercierlaan",M,Q468097,way
 "Désiré Van Monckhovenstraat",M,Q2275763,way
 "Domien Ingelsstraat",M,Q2047896,way
 "Domien de Waghemakerestraat",M,Q17628998,way
@@ -115,8 +134,11 @@ Sint-Veerleplein,F,Q929800,way
 "Edgard Blancquaertstraat",M,Q18224979,way
 "Edgard Tinelstraat",M,Q377071,way
 "Edmond Van Beverenplein",M,Q61781054,way
+"Eduard Pêcherstraat",M,Q2654541,way
 "Edward Anseeleplein",M,Q984045,way
+"Edward Blaesstraat",M,Q20972487,way
 "Edward Pynaertkaai",M,Q8078089,way
+"Emiel Claeyslaan",M,Q2470627,way
 "Emiel Maeyensstraat",M,Q41799494,way
 "Emiel Poetoustraat",M,Q21646494,way
 "Emile Braunplein",M,Q2393588,way
@@ -127,6 +149,7 @@ Sint-Veerleplein,F,Q929800,way
 "Ernest Claeslaan",M,Q1356304,way
 "Ernest Solvynsdreef",M,Q18069466,way
 "Esplanade Oscar Van de Voorde",M,Q70192668,way
+"Eugeen Zetternamstraat",M,Q3233353,way
 "Evarist De Buckstraat",M,Q2488620,way
 "Ferdinand Lousbergskaai",M,Q3542381,way
 "Ferdinand Snellaertplein",M,Q4775815,way
@@ -144,27 +167,36 @@ Sint-Veerleplein,F,Q929800,way
 "Frans Ackermanstraat",M,Q2594530,way
 "Frans De Potterstraat",M,Q15461013,way
 "Frans Gevaertstraat",M,Q682376,way
+"Frans Halslaan",M,Q167654,way
 "Frans Masereelstraat",M,Q559297,way
 "Frans Rensstraat",M,Q2655689,way
 "Frans Spaestraat",M,Q70559849,way
+"Frans Tochpark",M,Q18433424,way
 "Frans Uyttenhovestraat",M,Q2359206,way
 "Frans van Ryhovelaan",M,Q2681510,way
 "Frederik Burvenichstraat",M,Q2334086,way
+"Friedrich Froebelstraat",M,Q76679,way
+"Fritiof Nilsson Piratenstraat",M,Q5504807,way
 "Fritz De Beulestraat",M,Q55233335,way
 "Gaspar de Craeyerstraat",M,Q570172,way
 "Gaston Crommenlaan",M,Q2592658,way
 "Geeraard Van den Daelelaan",M,Q2570637,way
 "Geo Langiestraat",M,Q94220740,way
+"Geo Verbancklaan",M,Q2554704,way
+"George Minneplein",M,Q559281,way
 "Geraard Mercatorstraat",M,Q6353,way
 "Geraard de Duivelstraat",M,Q17351321,way
 "Gérard Willemotlaan",M,Q63020419,way
 "Gillis Coppinsstraat",M,Q73173113,way
 "Gillis de Sutterstraat",M,Q72988286,way
+"Graaf Arnulfstraat",M,Q469638,way
 "Guido Gezellestraat",M,Q336977,way
+"Guido Moonspark",M,Q15875948,way
 "Gustaaf Callierlaan",M,Q17428070,way
 "Gustaaf Carelshof",M,Q21281338,way
 "Gustaaf Eylenboschplein",M,Q4354338,way
 "Gustaaf Magnelstraat",M,Q2599852,way
+"Gustaaf Vanaisedreef",M,Q3121341,way
 "Gustaaf Vanden Meerschestraat",M,Q73173940,way
 "Hans Memlingstraat",M,Q106851,way
 "Hector Van Wittenberghestraat",M,Q73515034,way
@@ -172,18 +204,22 @@ Sint-Veerleplein,F,Q929800,way
 "Hendrik van Brederodestraat",M,Q1349577,way
 "Henri Dunantlaan",M,Q12091,way
 "Henri Farmanstraat",M,Q22401,way
+"Henri Pirennelaan",M,Q312501,way
 "Henri Storystraat",M,Q5715704,way
 "Henri Van Cleemputteplein",M,Q94222177,way
 "Henri de Sagherstraat",M,Q2012447,way
 "Henricus Bracqstraat",M,Q2656137,way
+"Herman Teirlinckstraat",M,Q924740,way
 "Hippoliet Lammensstraat",M,Q73516148,way
 "Hippoliet Lippensplein",M,Q2357558,way
 "Hippoliet Van Peenestraat",M,Q12456,way
 "Hippolyte Metdepenningenstraat",M,Q2833532,way
 "Hubert Frère-Orbanlaan",M,Q705791,way
+"Hubert Malfaitlaan",M,Q21395988,way
 "Hugo Van der Goesstraat",M,Q215251,way
 "Hugo Verrieststraat",M,Q981444,way
 "Isidoor De Vosstraat",M,Q20971502,way
+"Jacob Van Arteveldestraat",M,Q359165,way
 "Jacob van Maerlantstraat",M,Q1393906,way
 "Jacques de Lalaingdreef",M,Q2130178,way
 "Jakob Heremansstraat",M,Q19986020,way
@@ -205,11 +241,16 @@ Sint-Veerleplein,F,Q929800,way
 "Jan Van Hembysebolwerk",M,Q2782542,way
 "Jan Verspeyenstraat",M,Q72988345,way
 "Jan Yoensstraat",M,Q2611945,way
+"Jan van Gentstraat",M,Q193752,way
 "Jan van Haelststraat",M,Q72988314,way
+"Jan zonder Vreesstraat",M,Q298901,way
 "Jan-Baptist Boterdaelestraat",M,Q74531129,way
 "Jean Béthunestraat",M,Q354052,way
 "Jean Fobelaan",M,Q77936950,way
+"Jean Jaurèslaan",M,Q12688,way
 "Jean Raystraat",M,Q767437,way
+"Jean-Baptiste d'Hanedreef",M,Q1894979,way
+"Jean-Baptiste de Ghellincklaan",M,Q15307410,way
 "Jef Crickstraat",M,Q18225055,way
 "Joannes Schinckdreef",M,Q77937180,way
 "Johan Daisnestraat",M,Q656476,way
@@ -220,6 +261,7 @@ Sint-Veerleplein,F,Q929800,way
 "Jos Verdegemstraat",M,Q2376453,way
 "Jozef Boddaertstraat",M,Q77938605,way
 "Jozef Cantréstraat",M,Q2271270,way
+"Jozef Cardijnlaan",M,Q469580,way
 "Jozef De Veusterstraat",M,Q232785,way
 "Jozef Goossenaertsstraat",M,Q41885212,way
 "Jozef Guislainstraat",M,Q711213,way
@@ -241,6 +283,7 @@ Sint-Veerleplein,F,Q929800,way
 "Karel Lodewijk Ledeganckstraat",M,Q13000,way
 "Karel Mirystraat",M,Q3076542,way
 "Karel Van Hulthemstraat",M,Q1914976,way
+"Karel Waeriplein",M,Q1894239,way
 "Karel de Stoutestraat",M,Q151120,way
 "Karel van de Woestijnestraat",M,Q1813000,way
 "Keizer Karelstraat",M,Q32500,way
@@ -279,20 +322,25 @@ Sint-Veerleplein,F,Q929800,way
 "Nelson Mandelapromenade",M,Q8023,way
 "Nicolaas Zannekinstraat",M,Q3091356,way
 "Norbert Rosseaudreef",M,Q2055421,way
+"Octaaf Soudanstraat",M,Q15943577,way
 "Ogier van Boesbekestraat",M,Q647633,way
 "Oscar Colbrandtstraat",M,Q2366821,way
 "Paul Bergmansdreef",M,Q30093760,way
 "Paul Fredericqstraat",M,Q2659663,way
 "Paul de Smet de Naeyerplein",M,Q721781,way
+"Peter Benoitlaan",M,Q733063,way
 "Petrus Christusdreef",M,Q312616,way
 "Philip Blommaertstraat",M,Q630107,way
+"Philippus van der Nootstraat",M,Q15880683,way
 "Philips Landsbergiuslaan",M,Q959953,way
+"Pieter Brueghellaan",M,Q43270,way
 "Pieter Colpaertsteeg",M,Q76797345,way
 "Pieter Hellebautstraat",M,Q77949772,way
 "Pieter Huyssensplein",M,Q729612,way
 "Pieter Vanderdoncktdoorgang",M,Q77257117,way
 "Pieter de Keyserestraat",M,Q77252790,way
 "Pol De Vischstraat",M,Q79448279,way
+"President John F. Kennedylaan",M,Q9696,way
 "Prosper Claeysstraat",M,Q20973391,way
 "Prudens Van Duyseplein",M,Q897719,way
 "Quinten Metsijsstraat",M,Q314275,way
@@ -300,6 +348,7 @@ Sint-Veerleplein,F,Q929800,way
 "Rembert Dodoensdreef",M,Q437466,way
 "Romain Deconinckplein",M,Q2521994,way
 "Rombaut Keldermansstraat",M,Q2165053,way
+"Simon Beninglaan",M,Q928015,way
 "Simon Van Asscheplein",M,Q77298961,way
 "Simon de Mirabellostraat",M,Q2384998,way
 Sint-Amandplein,M,Q453698,way
@@ -314,6 +363,7 @@ Sint-Machariusstraat,M,Q2069309,way
 "Theofiel Lybaertstraat",M,Q3526669,way
 "Thomas Edisonstraat",M,Q8743,way
 "Valentin Vaerwyckweg",M,Q2359127,way
+"Vasco da Gamalaan",M,Q7328,way
 "Victor Braeckmanlaan",M,Q94427244,way
 "Victor Frisstraat",M,Q2406020,way
 "Victor Hortastraat",M,Q49744,way
