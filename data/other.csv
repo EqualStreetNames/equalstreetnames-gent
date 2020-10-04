@@ -33,6 +33,7 @@ Geelgorsstraat,,Q26205,way
 Gentbruggebrug,,Q680916,way
 Gentbruggeplein,,Q680916,way
 Gentbruggestraat,,Q680916,way
+"Georges Wibierdreef",,Q19003346,way
 Gerststraat,,Q11577,way
 "Gezusters Lovelingstraat",,Q77578636,way
 Glasgowstraat,,Q4093,way
@@ -54,6 +55,7 @@ Katwilgenstraat,,Q158590,way
 Klapeksterstraat,,Q184508,way
 Kopenhagenstraat,,Q1748,way
 Kornalijnstraat,,Q324369,way
+Kortrijksesteenweg,,Q12995,way
 "Lamme Goedzakstraat",,Q2791154,way
 Lariksstraat,,Q25618,way
 Lavendelstraat,,Q171892,way
@@ -170,6 +172,7 @@ Amandelboomlaan,,,way
 Amaryllislaan,,,way
 Ambachtstraat,,,way
 Ambassadeursweg,,,way
+"Ambroise Verschaffeltdreef",,,way
 Amerikalaan,,,way
 Amethistpad,,,way
 Anemoonstraat,,,way
@@ -479,7 +482,6 @@ Dendermondsesteenweg,,,relation
 Dennenlaan,,,way
 Derbystraat,,,way
 "Désiré Mercierlaan",,,way
-"Désiré Toeffaertstraat",,,way
 Destelbergenstraat,,,way
 Desteldonkdorp,,,way
 Desteldonkstraat,,,way
@@ -496,7 +498,6 @@ Dobbelslot,,,way
 Dok-Noord,,,way
 Dok-Zuid,,,way
 "Domein Antoniushof",,,way
-"Domien Geersstraat",,,way
 Donkersteeg,,,way
 "Doorgang der Hallegasten",,,way
 Doorgangstraat,,,way
@@ -552,7 +553,6 @@ Dwergvleermuispad,,,way
 E3-plein,,,way
 Eddastraat,,,way
 Edelsteenstraat,,,way
-"Edmond Blockstraat",,,way
 "Edmond Helderweirdtstraat",,,way
 Eedstraat,,,way
 Eedverbondkaai,,,way
@@ -622,9 +622,7 @@ Fonteyneputpleintje,,,way
 Foreestelaan,,,way
 Forelstraat,,,way
 Fortlaan,,,way
-"François Benardstraat",,,way
 "François Laurentplein",,,way
-"Francois Van Impelaan",,,way
 "Franklin Rooseveltlaan",,,way
 Frankrijkplein,,,relation
 "Frans Louwersstraat",,,way
@@ -678,6 +676,7 @@ Geldmunt,,,way
 Gelukstraat,,,way
 Gemberstraat,,,way
 Gemeenteplein,,,way
+Gentbrugge,,,way
 Gentbruggeaard,,,way
 Gentbruggekouter,,,way
 "Gentbrugse Meersen",,,way
@@ -685,7 +684,6 @@ Gentiaanlaan,,,way
 Gentseaardeweg,,,way
 Gentstraat,,,way
 "Georges Maenhoutdreef",,,way
-"Georges Wibierdreef",,,way
 Geraniumstraat,,,way
 Gestichtstraat,,,way
 Getouwstraat,,,way
@@ -764,8 +762,6 @@ Guldenroedestraat,,,way
 Guldenspoorstraat,,,way
 Guldenvliesstraat,,,way
 Gundlichstraat,,,way
-"Gustaaf Le Fèvere de Ten Hovelaan",,,way
-"Gustaaf Van Heckelaan",,,way
 Haagbeuklaan,,,way
 Haagstuk,,,way
 Haanstraat,,,way
@@ -919,7 +915,6 @@ Hundelgemsesteenweg,,,way
 Hurstweg,,,way
 Hutsepotstraat,,,way
 Huurhouderijstraat,,,way
-"Hyacinth Lippensstraat",,,way
 Hyacintstraat,,,way
 IJkmeesterstraat,,,way
 IJskelderstraat,,,way
@@ -980,7 +975,6 @@ Judoweg,,,way
 "Jules Van Biesbroeckstraat",,,way
 "Juliaan Brakeleirsstraat",,,way
 "Julienne De Plupad",,,way
-"Julienne De Vetterstraat",,,way
 "Julius de Vigneplein",,,way
 Jutestraat,,,way
 Kaaksmetebrug,,,way
@@ -1169,7 +1163,6 @@ Korteheerweg,,,way
 Kortekerkstraat,,,way
 Kortemunt,,,way
 Kortrijksepoortstraat,,,way
-Kortrijksesteenweg,,,way
 Kosterstiende,,,way
 Kouter,,,relation
 Kouterbosstraat,,,way
@@ -1645,9 +1638,7 @@ Peperstraat,,,way
 Perkamentstraat,,,way
 Persellestraat,,,way
 Perzikstraat,,,way
-"Petrus De Broestraat",,,way
 "Petrus Hostestraat",,,way
-"Petrus Jozef Triesthof",,,way
 "Petrus Meirestraat",,,way
 Petuniastraat,,,way
 "Philippe van de Veldehof",,,way
@@ -2103,6 +2094,7 @@ Turrepoortsteeg,,,way
 Twaalfapostelenstraat,,,way
 Twaalfkameren,,,way
 Twaalfroeden,,,way
+Twaalfroedenstraat,,,way
 Tweebekenstraat,,,way
 Tweebruggenstraat,,,way
 Tweebunders,,,way
@@ -2304,9 +2296,6 @@ Wilderoosstraat,,,way
 Wilgestraat,,,way
 "Wilgetronk straat",,,way
 "Wilhelmina Druckerstraat",,,way
-"Willem Blanckestraat",,,way
-"Willem de Beersteeg",,,way
-"Willy Maststraat",,,way
 Windgat,,,way
 Windmolenstraat,,,way
 Winkelgate,,,way

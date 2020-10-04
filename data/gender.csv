@@ -43,6 +43,7 @@ name,gender,wikidata,type
 "Jenny Tanghestraat",F,Q2554568,way
 "Jenny Walrystraat",F,Q69572549,way
 "Josepha Goethalsstraat",F,Q98754150,way
+"Julienne De Vetterstraat",F,Q99521484,way
 "Koningin Astridlaan",F,Q230238,way
 "Koningin Elisabethlaan",F,Q235186,way
 "Koningin Fabiolalaan",F,Q231171,way
@@ -198,12 +199,15 @@ Sint-Veerleplein,F,Q929800,way
 "Desiderius Erasmusstraat",M,Q43499,way
 "Désiré Fiévéstraat",M,Q15304690,way
 "Désiré Mercierlaan",M,Q468097,way
+"Désiré Toeffaertstraat",M,Q99520380,way
 "Désiré Van Monckhovenstraat",M,Q2275763,way
+"Domien Geersstraat",M,Q1985738,way
 "Domien Ingelsstraat",M,Q2047896,way
 "Domien de Waghemakerestraat",M,Q17628998,way
 "Ebergiste De Deynestraat",M,Q70483973,way
 "Edgard Blancquaertstraat",M,Q18224979,way
 "Edgard Tinelstraat",M,Q377071,way
+"Edmond Blockstraat",M,Q99520837,way
 "Edmond Boonenstraat",M,Q99276786,way
 "Edmond Ronsestraat",M,Q2207522,way
 "Edmond Van Beverenplein",M,Q61781054,way
@@ -249,7 +253,9 @@ Sint-Veerleplein,F,Q929800,way
 Florbertusstraat,M,Q2693633,way
 "Folke Bernadottestraat",M,Q212163,way
 "Francisco Ferrerlaan",M,Q354202,way
+"François Benardstraat",M,Q99670448,way
 "François Laurentplein",M,Q1384312,way
+"Francois Van Impelaan",M,Q99670511,way
 "Frank Baurstraat",M,Q11316278,way
 "Franklin Rooseveltlaan",M,Q8007,way
 "Frans Ackermanstraat",M,Q2594530,way
@@ -283,12 +289,14 @@ Florbertusstraat,M,Q2693633,way
 "Gillis de Sutterstraat",M,Q72988286,way
 "Graaf Arnulfstraat",M,Q469638,way
 "Guido Gezellestraat",M,Q336977,way
-"Guido Moonspark",M,Q15875948,way
+"Guido Moonspark",M,Q99301542,way
 "Gustaaf Callierlaan",M,Q17428070,way
 "Gustaaf Carelshof",M,Q21281338,way
 "Gustaaf Den Duitsdreef",M,Q2708003,way
 "Gustaaf Eylenboschplein",M,Q4354338,way
+"Gustaaf Le Fèvere de Ten Hovelaan",M,Q99662246,way
 "Gustaaf Magnelstraat",M,Q2599852,way
+"Gustaaf Van Heckelaan",M,Q99662435,way
 "Gustaaf Vanaisedreef",M,Q3121341,way
 "Gustaaf Vanden Meerschestraat",M,Q73173940,way
 "Hans Memlingstraat",M,Q106851,way
@@ -319,6 +327,7 @@ Florbertusstraat,M,Q2693633,way
 "Hubert Malfaitlaan",M,Q21395988,way
 "Hugo Van der Goesstraat",M,Q215251,way
 "Hugo Verrieststraat",M,Q981444,way
+"Hyacinth Lippensstraat",M,Q99670527,way
 "Isidoor De Vosstraat",M,Q20971502,way
 "Jacob Van Arteveldestraat",M,Q359165,way
 "Jacob van Maerlantstraat",M,Q1393906,way
@@ -462,7 +471,6 @@ Lothariusstraat,M,Q150735,way
 "Napoleon de Pauwbrug",M,Q18654812,way
 "Nelson Mandelapromenade",M,Q8023,way
 "Nicolaas Zannekinstraat",M,Q3091356,way
-"Nicolaï Kossikoffstraat",M,Q98553839,way
 "Norbert Rosseaudreef",M,Q2055421,way
 "Octaaf Soudanstraat",M,Q15943577,way
 "Odilon Vanderlindenstraat",M,Q98778959,way
@@ -477,7 +485,9 @@ Lothariusstraat,M,Q150735,way
 "Paul de Smet de Naeyerplein",M,Q721781,way
 "Peter Benoitlaan",M,Q733063,way
 "Petrus Christusdreef",M,Q312616,way
+"Petrus De Broestraat",M,Q99520230,way
 "Petrus De Meyerestraat",M,Q99294741,way
+"Petrus Jozef Triesthof",M,Q1905881,way
 "Philip Blommaertstraat",M,Q630107,way
 "Philippus van der Nootstraat",M,Q15880683,way
 "Philips Landsbergiuslaan",M,Q959953,way
@@ -559,10 +569,13 @@ Sint-Simonstraat,M,Q12871,way
 "Vincent Evrardlaan",M,Q95841252,way
 "Walter De Buckplein",M,Q14517521,way
 Wazenaarstraat,M,Q2481707,way
+"Willem Blanckestraat",M,Q99520019,way
 "Willem Wenemaerstraat",M,Q19360913,way
+"Willem de Beersteeg",M,Q99912733,way
 "Willem van Guliklaan",M,Q195942,way
 "Willem van Nassaustraat",M,Q78454,way
 "Willem van Rubroeckstraat",M,Q316083,way
+"Willy Maststraat",M,Q99519801,way
 "Winston Churchillplein",M,Q8016,way
 Wolterslaan,M,Q94897324,way
 "Woodrow Wilsonplein",M,Q34296,relation
