@@ -17,10 +17,12 @@ Borluutplein,,Q2996372,way
 Bosuilstraat,,Q25756,way
 Brugsesteenweg,,Q12994,way
 Brugsevaart,,Q12994,way
+Cameliastraat,,Q212815,way
 Carneoolstraat,,Q324369,way
 Cliviastraat,,Q1163100,way
 Cyclamenstraat,,Q147295,way
 Dahliastraat,,Q130918,way
+Deinsesteenweg,,Q499313,way
 Diamantstraat,,Q5283,way
 Drongensesteenweg,,Q1260195,way
 Drongenstationstraat,,Q2297616,way
@@ -40,6 +42,8 @@ Gerststraat,,Q11577,way
 Glasgowstraat,,Q4093,way
 Göteborgstraat,,Q25287,way
 Greenockstraat,,Q217831,way
+Halewijnstationstraat,,Q2144918,way
+Halewijnstraat,,Q1949592,way
 Helsinkistraat,,Q1757,way
 Henleykaai,,Q1543109,way
 "Henri Bernard De Tracylaan",,Q55769976,way
@@ -418,7 +422,6 @@ Buntstraat,,,way
 Burggravenlaan,,,way
 Burgstraat,,,way
 Busstraat,,,way
-Cameliastraat,,,way
 Campinglaan,,,way
 Campo-Santoplein,,,way
 Campusader,,,way
@@ -456,7 +459,6 @@ Corduwaniersstraat,,,way
 Coyendanspark,,,way
 Creesersweg,,,way
 Crocusstraat,,,way
-"Cyrille Van de Veegaetestraat",,,way
 Dagmaalhof,,,way
 Dagmaalpad,,,way
 Daknamstraat,,,way
@@ -472,7 +474,6 @@ Dasstraat,,,way
 "De Pintelaan",,,way
 "De Sterre",,,way
 "Deinse Horsweg",,,way
-Deinsesteenweg,,,way
 Delori-Maeslaan,,,way
 "Den Holland",,,way
 "Den Wyngaert",,,way
@@ -696,6 +697,7 @@ Godshuishammeke,,,way
 Godshuizenlaan,,,way
 Goedendagstraat,,,way
 Goedingenstraat,,,way
+Goedjens,,,way
 Goedlevenstraat,,,way
 Golfweg,,,way
 Gondelstraat,,,way
@@ -758,6 +760,7 @@ Guldenroedestraat,,,way
 Guldenspoorstraat,,,way
 Guldenvliesstraat,,,way
 Gundlichstraat,,,way
+"Gustaaf Vanden Meerschestraat",,,way
 Haagbeuklaan,,,way
 Haagstuk,,,way
 Haanstraat,,,way
@@ -770,8 +773,6 @@ Hagewindestraat,,,way
 Hakkeneistraat,,,way
 Halenpad,,,way
 Halewijnkouter,,,way
-Halewijnstationstraat,,,way
-Halewijnstraat,,,way
 Halfbunder,,,way
 Halfbunderpad,,,way
 Halfweg,,,way
@@ -1236,6 +1237,7 @@ Ledebergstraat,,,way
 Lededries,,,way
 Ledergemstraat,,,way
 Ledestraat,,,way
+Leebeekpad,,,way
 Leebeekstraat,,,way
 Leegte,,,way
 Leenpad,,,way
@@ -1482,6 +1484,7 @@ Notarisstraat,,,way
 Notaxlaan,,,way
 Notelaarstraat,,,way
 Notenstraat,,,way
+Novaretzpad,,,way
 Novicenstraat,,,way
 Oceaniëstraat,,,way
 "Octaaf Van Dammestraat",,,way
@@ -1976,7 +1979,6 @@ Suikerijsteeg,,,way
 Surkelbulk,,,way
 Tabakstraatje,,,way
 Takkebosstraat,,,way
-Tapijtstraat,,,way
 Tapuitstraat,,,way
 Tarbotstraat,,,way
 Taxusstraat,,,way
