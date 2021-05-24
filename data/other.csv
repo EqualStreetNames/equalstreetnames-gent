@@ -22,7 +22,7 @@ Cliviastraat,wikidata,,Q1163100,way
 Cyclamenstraat,wikidata,,Q147295,way
 Dahliastraat,wikidata,,Q130918,way
 Deinsesteenweg,wikidata,,Q499313,way
-Dendermondsesteenweg,wikidata,,Q13122,relation
+Dendermondsesteenweg,wikidata,,Q13122,relation+way
 Diamantstraat,wikidata,,Q5283,way
 Drongensesteenweg,wikidata,,Q1260195,way
 Drongenstationstraat,wikidata,,Q2297616,way
@@ -484,6 +484,7 @@ Delori-Maeslaan,,,,way
 "Den Holland",,,,way
 "Den Wyngaert",,,,way
 Denderlaan,,,,way
+Dendermondedoorgang,,,,way
 "Denise De Weerdtpad",,,,way
 Dennenlaan,,,,way
 Derbystraat,,,,way
@@ -633,7 +634,7 @@ Fonteyneputpleintje,,,,way
 Foreestelaan,,,,way
 Forelstraat,,,,way
 Fortlaan,,,,way
-Frankrijkplein,,,,relation
+Frankrijkplein,,,,relation+way
 "Frans Tavernierstraat",,,,way
 Fransevaart,,,,way
 Fratersplein,,,,way
@@ -1150,7 +1151,7 @@ Kortemunt,,,,way
 Kortevorenpad,,,,way
 Kortrijksepoortstraat,,,,way
 Kosterstiende,,,,way
-Kouter,,,,relation
+Kouter,,,,relation+way
 Kouterbosstraat,,,,way
 Kouterdreef,,,,way
 Koutergoedstraat,,,,way
@@ -1214,6 +1215,7 @@ Lakenstraat,,,,way
 Lammeken,,,,way
 Lammerstraat,,,,way
 "Land Van Rodelaan",,,,way
+"Land van Waasdoorgang",,,,way
 "Land van Waaslaan",,,,way
 Landbouwersstraat,,,,way
 Landingsplein,,,,way
@@ -1501,6 +1503,7 @@ Oefenpleinstraat,,,,way
 Offerlaan,,,,way
 Okapistraat,,,,way
 Okkernootsteeg,,,,way
+Oktrooidoorgang,,,,way
 Oktrooiplein,,,,way
 Oliestraat,,,,way
 Olifantstraat,,,,way
@@ -1743,7 +1746,7 @@ Rodebeukenhof,,,,way
 Rodehoedstraat,,,,way
 Rodekoningstraat,,,,way
 Rodeleeuwstraat,,,,way
-Rodelijvekensstraat,,,,relation
+Rodelijvekensstraat,,,,relation+way
 Rodenhuizekaai,,,,way
 Roderoestraat,,,,way
 Rodetorenkaai,,,,way
@@ -2181,7 +2184,7 @@ Vossenbergstraat,,,,way
 Vossenkoer,,,,way
 Vredestraat,,,,way
 Vriendschapstraat,,,,way
-Vrijdagmarkt,,,,relation
+Vrijdagmarkt,,,,relation+way
 Vrijheidslaan,,,,way
 Vrijwilligersweg,,,,way
 Vroonbroek,,,,way

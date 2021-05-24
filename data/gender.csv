@@ -379,7 +379,7 @@ Florbertusstraat,wikidata,M,Q2693633,way
 "Jan Van Aelbroeckdreef",wikidata,M,Q2292682,way
 "Jan Van Aelbroecklaan",wikidata,M,Q2292682,way
 "Jan Van Hembysebolwerk",wikidata,M,Q2782542,way
-"Jan Van Ryswyckstraat",wikidata,M,Q27894086,way
+"Jan Van Ryswyckstraat",wikidata,M,Q6072504,way
 "Jan Verspeyenstraat",wikidata,M,Q72988345,way
 "Jan Yoensstraat",wikidata,M,Q2611945,way
 "Jan van Gentstraat",wikidata,M,Q193752,way
@@ -577,7 +577,7 @@ Rerum-Novarumplein,wikidata,M,Q764378,way
 Sint-Amandplein,wikidata,M,Q453698,way
 Sint-Amandstraat,wikidata,M,Q453698,way
 Sint-Baafsdorp,wikidata,M,Q457903,way
-Sint-Baafsplein,wikidata,M,Q457903,relation
+Sint-Baafsplein,wikidata,M,Q457903,relation+way
 Sint-Baafssteeg,wikidata,M,Q457903,way
 Sint-Corneliusstraat,wikidata,M,Q54798,way
 Sint-Dionysiuslaan,wikidata,M,Q244380,way
@@ -599,7 +599,7 @@ Sint-Martensstraat,wikidata,M,Q133704,way
 Sint-Mauruspad,wikidata,M,Q380345,way
 Sint-Niklaasstraat,wikidata,M,Q44269,way
 Sint-Paulusstraat,wikidata,M,Q9200,way
-Sint-Pietersplein,wikidata,M,Q33923,relation
+Sint-Pietersplein,wikidata,M,Q33923,relation+way
 Sint-Rochusplein,wikidata,M,Q152457,way
 Sint-Rochusstraat,wikidata,M,Q152457,way
 Sint-Salvatorstraat,wikidata,M,Q302,way
@@ -632,6 +632,6 @@ Wazenaarstraat,wikidata,M,Q2481707,way
 "Willy Maststraat",wikidata,M,Q99519801,way
 "Winston Churchillplein",wikidata,M,Q8016,way
 Wolterslaan,wikidata,M,Q94897324,way
-"Woodrow Wilsonplein",wikidata,M,Q34296,relation
+"Woodrow Wilsonplein",wikidata,M,Q34296,relation+way
 "Zeger van Kortrijkstraat",wikidata,M,Q77953925,way
 "Zenobé Grammestraat",wikidata,M,Q247603,way
