@@ -71,6 +71,7 @@ Lariksstraat,wikidata,,Q25618,way
 Lavendelstraat,wikidata,,Q171892,way
 Leeuwstraat,wikidata,,Q2303588;Q140,way
 Leiekaai,wikidata,,Q208493,way
+"Leontine Vervlietpad",wikidata,,,way
 Lijsterbesdreef,wikidata,,Q157964,way
 Lisdoddestraat,wikidata,,Q145707,way
 Liverpoolstraat,wikidata,,Q24826,way
@@ -112,6 +113,7 @@ Roodborstjesstraat,wikidata,,Q25334,way
 Rotterdamstraat,wikidata,,Q34370,way
 Rugbylaan,wikidata,,Q5378,way
 Saffierstraat,wikidata,,Q127583,way
+Santosstraat,wikidata,,Q84,way
 Sint-Michielsbrug,wikidata,,Q45581,way
 Sint-Michielshelling,wikidata,,Q45581,way
 Sint-Michielsplein,wikidata,,Q45581,way
@@ -124,11 +126,13 @@ Tarwestraat,wikidata,,Q15645384,way
 Tentoonstellingslaan,wikidata,,Q2186413,way
 Tijgerstraat,wikidata,,Q2303588;Q19939,way
 "Tijl Uilenspiegelstraat",wikidata,,Q164083,way
+Titabastraat,wikidata,,Q184508,way
 Uranusstraat,wikidata,,Q324,way
 Valeriaanstraat,wikidata,,Q159559,way
 Venusstraat,wikidata,,Q313,way
 Verenigde-Natieslaan,wikidata,,Q1065,way
 "Victoria Regiapark",wikidata,,Q33130427,way
+Vlasmarkt,wikidata,,Q45108,way
 Wielewaalstraat,wikidata,,Q25388,way
 "Willem Tellstraat",wikidata,,Q30908,way
 Wittekaproenenplein,wikidata,,Q2329759,way
@@ -421,6 +425,7 @@ Brusselsesteenweg,,,,way
 Buchtenstraat,,,,way
 Buisstraat,,,,way
 Buitenhof,,,,way
+"Buitenring Zwijnaarde",,,,way
 Buitenring-Drongen,,,,way
 Buitenring-Sint-Denijs,,,,way
 Buitenring-Wondelgem,,,,way
@@ -959,6 +964,7 @@ Jakobijnenstraat,,,,way
 "Jan-Baptist Lombaertdreef",,,,way
 Jemappesstraat,,,,way
 Jeruzalemstraat,,,,way
+Jezuïetenpad,,,,way
 "Joachim Schayckstraat",,,,way
 "Joannes Roegierspad",,,,way
 Jockeystraat,,,,way
@@ -981,6 +987,7 @@ Kalandeberg,,,,way
 Kalandestraat,,,,way
 Kalemeersstraat,,,,way
 Kaleweg,,,,way
+Kalkbrugpad,,,,way
 Kalkoenlaan,,,,way
 Kalvermarkt,,,,way
 Kalversteeg,,,,way
@@ -1346,6 +1353,7 @@ Marcastraat,,,,way
 Mariakerkegeest,,,,way
 Mariakerkeplein,,,,way
 Marialand,,,,way
+"Marie-Jeanne Boelenspad",,,,way
 "Marie-Jeanne Coolsenpad",,,,way
 Marmotstraat,,,,way
 Martelaarslaan,,,,way
@@ -1379,7 +1387,6 @@ Meirebeekstraat,,,,way
 Meirepad,,,,way
 Melkerijstraat,,,,way
 Melkgracht,,,,way
-Melkhambrug,,,,way
 Melkweide,,,,way
 Mellestraat,,,,way
 Mendonkdorp,,,,way
@@ -1404,6 +1411,7 @@ Mijnhoutkaai,,,,way
 Mimosastraat,,,,way
 Minnemeers,,,,way
 Mispelbilk,,,,way
+Mispelstraat,,,,way
 Modderenmanpad,,,,way
 Moerbezielaan,,,,way
 Moerlandstraat,,,,way
@@ -1545,7 +1553,6 @@ Oranjeboomstraat,,,,way
 Oranjerielaan,,,,way
 Orchideestraat,,,,way
 Ossenstraat,,,,way
-Ottergembrug,,,,way
 Ottergemsesteenweg,,,,way
 Ottergemsesteenweg-Zuid,,,,way
 Ottogracht,,,,way
@@ -1719,6 +1726,7 @@ Reinaertstraat,,,,way
 Reke,,,,way
 Rekelingestraat,,,,way
 Renbaanstraat,,,,way
+Rendelgat,,,,way
 Renpaardlaan,,,,way
 "Rerum Novarumplein",,,,relation
 Resedastraat,,,,way
@@ -1783,6 +1791,7 @@ Ruiterlaan,,,,way
 Ruststraat,,,,way
 Ryhoveweg,,,,way
 "Saffelaersche Gentwegel",,,,way
+Saffloerpad,,,,way
 Sagastraat,,,,way
 Sagaststraat,,,,way
 Saghermansstraat,,,,way
@@ -1862,6 +1871,7 @@ Silexstraat,,,,way
 Singel,,,,way
 Sint-Agnetabrug,,,,way
 Sint-Agnetestraat,,,,way
+Sint-Amandsbergdoorgang,,,,way
 Sint-Antoniusbrug,,,,way
 Sint-Antoniuskaai,,,,way
 Sint-Arnoutstraat,,,,way
@@ -1967,6 +1977,7 @@ Steenhouwersstraat,,,,way
 Steenhuisdreef,,,,way
 Steenovenstraat,,,,way
 Steenvoordelaan,,,,way
+Stekenevaardekena,,,,way
 Steltloperstraat,,,,way
 Stenenkruis,,,,way
 Steppestede,,,,way
@@ -2144,7 +2155,6 @@ Vlaamse-Hefboomweg,,,,way
 Vlaamsekaai,,,,way
 Vlaanderenstraat,,,,way
 Vlasgaardstraat,,,,way
-Vlasmarkt,,,,way
 Vlasstraat,,,,way
 Vledermuisstraat,,,,way
 Vleeshuisbrug,,,,way
@@ -2298,6 +2308,7 @@ Wondelgemstraat,,,,way
 Wouterij,,,,way
 Wulverdam,,,,way
 Yachtdreef,,,,way
+"Yvonne Fontainestraat",,,,way
 Zaamslagstraat,,,,way
 Zakstraat,,,,way
 Zalegemstraat,,,,way
@@ -2331,7 +2342,6 @@ Zombeekstraat,,,,way
 Zomerliefstraat,,,,way
 Zomerstraat,,,,way
 Zomerwee,,,,way
-Zomerweibrug,,,,way
 Zonder-Naamstraat,,,,way
 Zonnebloemstraat,,,,way
 Zonnedauwstraat,,,,way
