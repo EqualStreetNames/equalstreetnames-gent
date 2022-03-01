@@ -55,6 +55,7 @@ Hoornbladstraat,wikidata,,Q21795,way
 Hortensiastraat,wikidata,,Q155997,way
 Houtduifstraat,wikidata,,Q26026,way
 Jadestraat,wikidata,,Q175089,way
+Jakobijnenstraat,wikidata,,Q179885,way
 Jasmijnstraat,wikidata,,Q82014,way
 Jaspisstraat,wikidata,,Q201175,way
 Jupiterstraat,wikidata,,Q319,way
@@ -71,6 +72,7 @@ Lariksstraat,wikidata,,Q25618,way
 Lavendelstraat,wikidata,,Q171892,way
 Leeuwstraat,wikidata,,Q2303588;Q140,way
 Leiekaai,wikidata,,Q208493,way
+Leiestraat,wikidata,,Q208493,way
 "Leontine Vervlietpad",wikidata,,,way
 Lijsterbesdreef,wikidata,,Q157964,way
 Lisdoddestraat,wikidata,,Q145707,way
@@ -307,6 +309,7 @@ Biesbilkstraat,,,,way
 Bieslookstraat,,,,way
 Biesrek,,,,way
 Biest,,,,way
+Biezekapelsteeg,,,,way
 Biezekapelstraat,,,,way
 Biezenstraat,,,,way
 Biezenstuk,,,,way
@@ -647,6 +650,7 @@ Forelstraat,,,,way
 Fortlaan,,,,way
 "Françoise Jeanne Ridderboschstraat",,,,way
 Frankrijkplein,,,,relation+way
+"Frans De Coenestraat",,,,way
 "Frans Tavernierstraat",,,,way
 Fransevaart,,,,way
 Fratersplein,,,,way
@@ -959,7 +963,6 @@ Isegrimstraat,,,,way
 Jaagpad,,,,way
 "Jacques Eggermontstraat",,,,way
 "Jacques Paryslaan",,,,way
-Jakobijnenstraat,,,,way
 "Jan Furnièrestraat",,,,way
 "Jan Rijmstraat",,,,way
 "Jan Samijnstraat",,,,way
@@ -1270,7 +1273,6 @@ Leeuwerikstraat,,,,way
 Leieoever,,,,way
 Leiepark,,,,way
 Leieriggestraat,,,,way
-Leiestraat,,,,way
 Leisbulkstraat,,,,way
 Leithstraat,,,,way
 Leliestraat,,,,way
@@ -1635,7 +1637,6 @@ Perkamentstraat,,,,way
 Persellestraat,,,,way
 Perzikstraat,,,,way
 Petuniastraat,,,,way
-"Philippe van de Veldehof",,,,way
 Phoenixonderdoorgang,,,,way
 Phoenixstraat,,,,way
 Piereputstraat,,,,way
@@ -1692,6 +1693,7 @@ Pussemierstraat,,,,way
 Putkapelstraat,,,,way
 Putstraat,,,,way
 Puttemeerswegel,,,,way
+Puttenpark,,,,way
 Putteveldestraat,,,,way
 R4,,,,way
 R40,,,,way
@@ -2112,6 +2114,7 @@ Veeweg,,,,way
 Veldekensstraat,,,,way
 Veldstraat,,,,way
 Veldwijkstraat,,,,way
+Vendelpad,,,,way
 Vendelstraat,,,,way
 Vennebos,,,,way
 Vennestraat,,,,way
@@ -2378,4 +2381,5 @@ Zwijnaardemeerspad,,,,way
 "Zwijnaardse Dries",,,,way
 Zwijnaardsesteenweg,,,,way
 Zwijndonkloop,,,,way
+breestraat,,,,way
 doorsteek,,,,way
