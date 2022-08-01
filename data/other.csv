@@ -19,6 +19,7 @@ Borluutplein,wikidata,,Q2996372,way
 Bosuilstraat,wikidata,,Q25756,way
 Brugsesteenweg,wikidata,,Q12994,way
 Brugsevaart,wikidata,,Q12994,way
+Bruiloftstraat,wikidata,,Q49836,way
 Buffelstraat,wikidata,,Q2303588;Q4979192,way
 Cameliastraat,wikidata,,Q212815,way
 Carneoolstraat,wikidata,,Q324369,way
@@ -100,17 +101,20 @@ Nodenaysteeg,wikidata,,Q100277885,way
 Novaretzpad,wikidata,,Q107820256,way
 Okapistraat,wikidata,,Q2303588;Q82037,way
 Olifantstraat,wikidata,,Q2303588;Q7378,way
+Ooievaarsnest,wikidata,,Q25352,way
 Opaalstraat,wikidata,,Q171058,way
 Oslostraat,wikidata,,Q585,way
 Paardekastanjestraat,wikidata,,Q158752,way
 Pijlkruidstraat,wikidata,,Q161565,way
 Pimpelmeesstraat,wikidata,,Q25404,way
+Pinguinstraat,wikidata,,Q9147,way
 Pioenstraat,wikidata,,Q147105,way
 Platanendreef,wikidata,,Q163025,way
 Platanenhof,wikidata,,Q163025,way
 Plutostraat,wikidata,,Q339,way
 Polarisstraat,wikidata,,Q12980,way
 Robijnstraat,wikidata,,Q43088,way
+Rode-Kruisstraat,wikidata,,Q7178,way
 Roggestraat,wikidata,,Q12099,way
 Roodborstjesstraat,wikidata,,Q25334,way
 Rotterdamstraat,wikidata,,Q34370,way
@@ -126,6 +130,7 @@ Siriusstraat,wikidata,,Q3409,way
 Spurriestraat,wikidata,,Q2701109,way
 Sulkystraat,wikidata,,Q222902,way
 Tarwestraat,wikidata,,Q15645384,way
+Tennisstraat,wikidata,,Q847,way
 Tentoonstellingslaan,wikidata,,Q2186413,way
 Tijgerstraat,wikidata,,Q2303588;Q19939,way
 "Tijl Uilenspiegelstraat",wikidata,,Q164083,way
@@ -136,6 +141,7 @@ Venusstraat,wikidata,,Q313,way
 Verenigde-Natieslaan,wikidata,,Q1065,way
 "Victoria Regiapark",wikidata,,Q33130427,way
 Vlasmarkt,wikidata,,Q45108,way
+Voetbalstraat,wikidata,,Q2736,way
 Wielewaalstraat,wikidata,,Q25388,way
 "Willem Tellstraat",wikidata,,Q30908,way
 Wittekaproenenplein,wikidata,,Q2329759,way
@@ -196,7 +202,6 @@ Ambachtstraat,,,,way
 Ambassadeursweg,,,,way
 Amerikalaan,,,,way
 Amethistpad,,,,way
-Amsterdamstraat,,,,way
 Anemoonstraat,,,,way
 Ankerslaan,,,,way
 Annonciadenstraat,,,,way
@@ -357,6 +362,7 @@ Boelenaar,,,,way
 Boentweg,,,,way
 "Boer Janssensstraat",,,,way
 Boerderijstraat,,,,way
+Boeregemstraat,,,,way
 Boesbeeklaan,,,,way
 Bokstraat,,,,way
 Bollebergen,,,,way
@@ -422,7 +428,6 @@ Brouwersstraat,,,,way
 Brughuizeken,,,,way
 Brugsepoortstraat,,,,way
 Bruidstraat,,,,way
-Bruiloftstraat,,,,way
 Bruisteke,,,,way
 Brunaustraat,,,,way
 Brusselsepoortstraat,,,,way
@@ -849,6 +854,7 @@ Heizen,,,,way
 Hekelaarsstraat,,,,way
 Hekers,,,,way
 Heldenplein,,,,way
+"Hélène Dutrieulaan",,,,way
 Hellegat,,,,way
 Hellewee,,,,way
 Helmkruidpad,,,,way
@@ -899,6 +905,7 @@ Hollenaarstraat,,,,way
 Holmerestraat,,,,way
 Holstraat,,,,way
 Hondelee,,,,way
+Hondelestraat,,,,way
 Hondskruidstraat,,,,way
 Hoofdbrug,,,,way
 Hoofdkerkstraat,,,,way
@@ -1411,6 +1418,7 @@ Mezenstraat,,,,way
 Mierenbospad,,,,way
 Mierhulpad,,,,way
 Mijlgrachtstraat,,,,way
+"Mijlgrachtstraat / Hondelestraat",,,,way
 Mijlsteen,,,,way
 Mijnhoutkaai,,,,way
 Mimosastraat,,,,way
@@ -1538,7 +1546,6 @@ Onyxpad,,,,way
 "Onze Lieve Vrouwdreef",,,,way
 "Onze Lieve Vrouwstraat",,,,way
 Oogststraat,,,,way
-Ooievaarsnest,,,,way
 Ooievaarstraat,,,,way
 Ooilamstraat,,,,way
 Ooistraat,,,,way
@@ -1646,7 +1653,6 @@ Pijlstraat,,,,way
 Pijndersstraat,,,,way
 Pijphoekstraat,,,,way
 Pilorijnstraat,,,,way
-Pinguinstraat,,,,way
 Pinksterbloemstraat,,,,way
 Piratenstraat,,,,way
 Platteberg,,,,way
@@ -1755,7 +1761,6 @@ Ringvaartweg-Wondelgem,,,,way
 Rivierstraat,,,,way
 Robiniadreef,,,,way
 Robiniahof,,,,way
-Rode-Kruisstraat,,,,way
 Rodeberg,,,,way
 Rodebeukendreef,,,,way
 Rodebeukenhof,,,,way
@@ -2025,7 +2030,6 @@ Tempelhof,,,,way
 "Ten Hulle",,,,way
 Tenderstraat,,,,way
 Tennisbaanstraat,,,,way
-Tennisstraat,,,,way
 "Ter Hand",,,,way
 "Ter Linden",,,,way
 "Ter Lindenpad",,,,way
@@ -2174,7 +2178,6 @@ Vlienderpad,,,,way
 Vlierstraat,,,,way
 Vlinderstraat,,,,way
 Vlotstraat,,,,way
-Voetbalstraat,,,,way
 Voetweg,,,,way
 Vogelenzang,,,,way
 Vogelenzangpark,,,,way
@@ -2386,5 +2389,4 @@ Zwijnaardemeerspad,,,,way
 "Zwijnaardse Dries",,,,way
 Zwijnaardsesteenweg,,,,way
 Zwijndonkloop,,,,way
-breestraat,,,,way
 doorsteek,,,,way
