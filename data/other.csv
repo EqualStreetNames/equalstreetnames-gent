@@ -92,10 +92,12 @@ Meelstraat,wikidata,,Q36465,way
 Meidoorndreef,wikidata,,Q132557,way
 Meidoornhof,wikidata,,Q132557,way
 Mercuriusstraat,wikidata,,Q308,way
+Meteorietpad,wikidata,,Q60186,way
 Mizarweg,wikidata,,Q66477109,way
 "Mule Jennystraat",wikidata,,Q1413723,way
 Nachtegaaldreef,wikidata,,Q25393,way
 Nachtegaalstraat,wikidata,,Q25393,way
+Negenmeipad,wikidata,,Q2397883,way
 New-Orleansstraat,wikidata,,Q34404,way
 Nodenaysteeg,wikidata,,Q100277885,way
 Novaretzpad,wikidata,,Q107820256,way
@@ -249,6 +251,7 @@ Ballenstraat,,,,way
 Balsamierenstraat,,,,way
 Bamboepad,,,,way
 Bandelierstraat,,,,way
+Bangkiraistraat,,,,way
 Banierstraat,,,,way
 Bargiebrug,,,,way
 Bargiekaai,,,,way
@@ -327,6 +330,7 @@ Bijlokekaai,,,,way
 Bijlokemeers,,,,way
 Bijlokestraat,,,,way
 Bijlokevest,,,,way
+Bijzeriggepad,,,,way
 "Binnenring Zwijnaarde",,,,way
 Binnenring-Drongen,,,,way
 Binnenring-Sint-Denijs,,,,way
@@ -482,6 +486,7 @@ Corduwaniersstraat,,,,way
 "Coupure Rechts",,,,way
 Coyendanspark,,,,way
 Creesersweg,,,,way
+Cretonnepad,,,,way
 Crocusstraat,,,,way
 D-Wegel,,,,way
 Dagmaalhof,,,,way
@@ -739,7 +744,6 @@ Gordunakaai,,,,way
 Gothastraat,,,,way
 Goubaulaan,,,,way
 Goudbrokaatstraat,,,,way
-"Gouden Leeuwplein",,,,way
 Goudenleeuwplein,,,,way
 Goudenregenstraat,,,,way
 Goudensterstraat,,,,way
@@ -869,6 +873,7 @@ Henegouwenstraat,,,,way
 Herdenkingslaan,,,,way
 Herderstraat,,,,way
 Herfststraat,,,,way
+Herlegemstraat,,,,way
 Hermelijnpad,,,,way
 Herrystraat,,,,way
 Hertogstraat,,,,way
@@ -1024,6 +1029,7 @@ Kaprijkestraat,,,,way
 Kapucijnenham,,,,way
 Kareelstraat,,,,way
 Karekietlaan,,,,way
+"Karel Johan Kuykstraat",,,,way
 "Karel Rymhofplein",,,,way
 Karmelietenstraat,,,,way
 Karnemelkwegel,,,,way
@@ -1176,7 +1182,7 @@ Kortedreef,,,,way
 Korteheerweg,,,,way
 Kortekerkstraat,,,,way
 Kortemunt,,,,way
-Kortevorenpad,,,,way
+Kortevorepad,,,,way
 Kortrijksepoortstraat,,,,way
 Kosterstiende,,,,way
 Kouter,,,,relation+way
@@ -1203,6 +1209,7 @@ Krijgslaan,,,,way
 Krijtekerkweg,,,,way
 Krijtestraat,,,,way
 Krijzeltand,,,,way
+Kringgreppelstraat,,,,way
 Kristalstraat,,,,way
 "Kromme Leie",,,,way
 Krommeboom,,,,way
@@ -1613,6 +1620,7 @@ Paddenhoek,,,,way
 Pakhuisstraat,,,,way
 Pakketbootpad,,,,way
 Palinghuizen,,,,way
+Palissanderpad,,,,way
 Palmendreef,,,,way
 Pannestraat,,,,way
 Pantserschipstraat,,,,way
@@ -1672,7 +1680,6 @@ Polderkenslaan,,,,way
 Politieke-Gevangenenlaan,,,,way
 Pollaeredam,,,,way
 Pollepelstraat,,,,way
-Pomonapad,,,,way
 Pont-Noord,,,,way
 Pontpad,,,,way
 Pontstraat,,,,way
@@ -1929,6 +1936,7 @@ Sluisweg,,,,way
 Sluizeken,,,,way
 Sluizekenkaai,,,,way
 Sluizekenstraat,,,,way
+Sluizenweg,,,,way
 Smalkouterstraat,,,,way
 Smalleheerweg,,,,way
 Smaragdstraat,,,,way
@@ -1998,6 +2006,7 @@ Steppestede,,,,way
 Sterrestraat,,,,way
 Stierstraat,,,,way
 Stokerijstraat,,,,way
+Stokt,,,,way
 Stoofstraat,,,,way
 Stoppelstraat,,,,way
 Stormvogelstraat,,,,way
@@ -2323,7 +2332,6 @@ Wondelgemstraat,,,,way
 Wouterij,,,,way
 Wulverdam,,,,way
 Yachtdreef,,,,way
-"Yvonne Fontainestraat",,,,way
 Zaamslagstraat,,,,way
 Zakstraat,,,,way
 Zalegemstraat,,,,way
