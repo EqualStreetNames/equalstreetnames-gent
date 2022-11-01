@@ -32,6 +32,7 @@ Diamantstraat,wikidata,,Q5283,way
 Dierentuinlaan,wikidata,,Q2303588,way
 Drongensesteenweg,wikidata,,Q1260195,way
 Drongenstationstraat,wikidata,,Q2297616,way
+Eeklostraat,wikidata,,Q12440,way
 Egelantierstraat,wikidata,,Q15546415,way
 Eksterstraat,wikidata,,Q25307,way
 Esperantostraat,wikidata,,Q143,way
@@ -52,6 +53,7 @@ Halewijnstationstraat,wikidata,,Q2144918,way
 Halewijnstraat,wikidata,,Q1949592,way
 Helsinkistraat,wikidata,,Q1757,way
 Henleykaai,wikidata,,Q1543109,way
+Herderstraat,wikidata,,Q12059906,way
 Hertstraat,wikidata,,Q2303588;Q2303588;Q23390,way
 Hoornbladstraat,wikidata,,Q21795,way
 Hortensiastraat,wikidata,,Q155997,way
@@ -110,6 +112,7 @@ Paardekastanjestraat,wikidata,,Q158752,way
 Pijlkruidstraat,wikidata,,Q161565,way
 Pimpelmeesstraat,wikidata,,Q25404,way
 Pinguinstraat,wikidata,,Q9147,way
+Pinksterbloemstraat,wikidata,,Q27490,way
 Pioenstraat,wikidata,,Q147105,way
 Platanendreef,wikidata,,Q163025,way
 Platanenhof,wikidata,,Q163025,way
@@ -237,7 +240,6 @@ Azaleastraat,,,,way
 Aziëstraat,,,,way
 B-wegel,,,,way
 Baaisteeg,,,,way
-Baarleboslaan,,,,way
 Baarledorpstraat,,,,way
 Baarlekouter,,,,way
 Baarleveer,,,,way
@@ -366,7 +368,6 @@ Boelenaar,,,,way
 Boentweg,,,,way
 "Boer Janssensstraat",,,,way
 Boerderijstraat,,,,way
-Boeregemstraat,,,,way
 Boesbeeklaan,,,,way
 Bokstraat,,,,way
 Bollebergen,,,,way
@@ -593,7 +594,6 @@ Eedstraat,,,,way
 Eedverbondkaai,,,,way
 Eekhout,,,,way
 Eekhoutdriesstraat,,,,way
-Eeklostraat,,,,way
 Eekstuk,,,,way
 Eendrachtstraat,,,,way
 Egelstraat,,,,way
@@ -658,6 +658,7 @@ Fonteineplein,,,,way
 Fonteyneputpleintje,,,,way
 Foreestelaan,,,,way
 Forelstraat,,,,way
+Forhstraat,,,,way
 Fortlaan,,,,way
 "Françoise Jeanne Ridderboschstraat",,,,way
 Frankrijkplein,,,,relation+way
@@ -871,9 +872,7 @@ Henegouwenstraat,,,,way
 "Henri Mortierstraat",,,,way
 "Henriette Casierpad",,,,way
 Herdenkingslaan,,,,way
-Herderstraat,,,,way
 Herfststraat,,,,way
-Herlegemstraat,,,,way
 Hermelijnpad,,,,way
 Herrystraat,,,,way
 Hertogstraat,,,,way
@@ -1051,7 +1050,6 @@ Kauwplein,,,,way
 Kazemattenstraat,,,,way
 Kazernenstraat,,,,way
 Keiberg,,,,way
-Keiskantstraat,,,,way
 Keizervest,,,,way
 Keizerviaduct,,,,way
 Kelderijstraat,,,,way
@@ -1430,6 +1428,7 @@ Mijlgrachtstraat,,,,way
 "Mijlgrachtstraat / Hondelestraat",,,,way
 Mijlsteen,,,,way
 Mijnhoutkaai,,,,way
+Millinocketstraat,,,,way
 Mimosastraat,,,,way
 Minnemeers,,,,way
 Mispelbilk,,,,way
@@ -1664,7 +1663,6 @@ Pijlstraat,,,,way
 Pijndersstraat,,,,way
 Pijphoekstraat,,,,way
 Pilorijnstraat,,,,way
-Pinksterbloemstraat,,,,way
 Piratenstraat,,,,way
 Platteberg,,,,way
 Pleispark,,,,way
@@ -1906,7 +1904,6 @@ Sint-Katelijnestraat,,,,way
 Sint-Kruis-Winkeldorp,,,,way
 Sint-Liesbetsteeg,,,,way
 Sint-Lievenspoortstraat,,,,way
-Sint-Markoenstraat,,,,way
 Sint-Martensblindeken,,,,way
 Sint-Pietersaalststraat,,,,way
 Sint-Pietersnieuwstraat,,,,way
@@ -1999,7 +1996,7 @@ Steenhouwersstraat,,,,way
 Steenhuisdreef,,,,way
 Steenovenstraat,,,,way
 Steenvoordelaan,,,,way
-Stekenevaardekena,,,,way
+Stekenevaardeken,,,,way
 Steltloperstraat,,,,way
 Stenenkruis,,,,way
 Steppestede,,,,way

@@ -7,6 +7,7 @@ Aleydispad,wikidata,F,Q100452254,way
 "Annie Vande Wielebrug",wikidata,F,Q19947772,way
 "Antoinette Vandeputtepad",wikidata,F,Q104547669,way
 "Augusta De Taeyepad",wikidata,F,Q106726851,way
+Baarleboslaan,wikidata,F,Q231171,way
 "Benazir Bhuttostraat",wikidata,F,Q34413,way
 "Bertha Boonantsstraat",wikidata,F,Q98735587,way
 "Bertha De Vriesestraat",wikidata,F,Q21517776,way
@@ -35,7 +36,6 @@ Aleydispad,wikidata,F,Q100452254,way
 "Helene Marechalhof",wikidata,F,Q2180738,way
 "Hilda Daneelsstraat",wikidata,F,Q19953867,way
 "Homa Darabistraat",wikidata,F,Q165488,way
-"Huguette Ingelaerestraat",wikidata,F,Q2775402,way
 "Irène Joliotstraat",wikidata,F,Q7504,way
 "Irma Lozinstraat",wikidata,F,Q77579767,way
 "Isabella Van Oostenrijkstraat",wikidata,F,Q157884,way
@@ -50,6 +50,7 @@ Aleydispad,wikidata,F,Q100452254,way
 "Josepha Goethalsstraat",wikidata,F,Q98754150,way
 "Julienne De Plupad",wikidata,F,Q100278092,way
 "Julienne De Vetterstraat",wikidata,F,Q99521484,way
+Keiskantstraat,wikidata,F,Q2775402;Q436758,way
 "Koningin Astridlaan",wikidata,F,Q230238,way
 "Koningin Elisabethlaan",wikidata,F,Q235186,way
 "Koningin Fabiolalaan",wikidata,F,Q231171,way
@@ -66,7 +67,6 @@ Aleydispad,wikidata,F,Q100452254,way
 "Mai Zetterlingstraat",wikidata,F,Q236656,way
 "Marcella van Hoeckestraat",wikidata,F,Q94422250,way
 "Marcelle Defay-Wibierstraat",wikidata,F,Q76883315,way
-"Marguerite Legotstraat",wikidata,F,Q436758,way
 "Maria Baersstraat",wikidata,F,Q3290883,way
 "Maria van Boergondiëstraat",wikidata,F,Q157073,way
 Maria-Theresiastraat,wikidata,F,Q131706,way
@@ -601,6 +601,7 @@ Sint-Lievensdoorgang,wikidata,M,Q720016,way
 Sint-Lievenslaan,wikidata,M,Q720016,way
 Sint-Lievenstunnel,wikidata,M,Q720016,way
 Sint-Machariusstraat,wikidata,M,Q2069309,way
+Sint-Markoenstraat,wikidata,M,Q685409,way
 Sint-Martensstraat,wikidata,M,Q133704,way
 Sint-Mauruspad,wikidata,M,Q380345,way
 Sint-Niklaasstraat,wikidata,M,Q44269,way
