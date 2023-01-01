@@ -10,6 +10,7 @@ Anjelierstraat,wikidata,,Q156099,way
 Arendstraat,wikidata,,Q2303588;Q2092297,way
 Bataviabrug,wikidata,,Q1199713,way
 Bataviapad,wikidata,,Q1199713,way
+Belgradostraat,wikidata,,Q3711,way
 Berkendreef,wikidata,,Q25243,way
 Berkenhof,wikidata,,Q25243,way
 Bezaanstraat,wikidata,,Q2144942,way
@@ -47,6 +48,7 @@ Gerststraat,wikidata,,Q11577,way
 "Gezusters Lovelingstraat",wikidata,,Q77578636,way
 Glasgowstraat,wikidata,,Q4093,way
 Göteborgstraat,wikidata,,Q25287,way
+"Graaf van Vlaanderenplein",wikidata,,Q1824016,way
 Greenockstraat,wikidata,,Q217831,way
 Groenestaakstraat,wikidata,,Q12994,way
 Halewijnstationstraat,wikidata,,Q2144918,way
@@ -164,7 +166,6 @@ Aannemersstraat,,,,way
 Abdijmolenstraat,,,,way
 Abdisstraat,,,,way
 Abeelstraat,,,,way
-Abrahamstraat,,,,way
 Absdalestraat,,,,way
 Acaciapark,,,,way
 Acaciastraat,,,,way
@@ -288,7 +289,6 @@ Begoniastraat,,,,way
 Belfortstraat,,,,way
 Belgicastraat,,,,way
 Belgiëlaan,,,,way
-Belgradostraat,,,,way
 Bellefleurstraat,,,,way
 Bellemansstraat,,,,way
 Bellevue,,,,way
@@ -512,7 +512,6 @@ Delori-Maeslaan,,,,way
 "Den Wyngaert",,,,way
 Denderlaan,,,,way
 Dendermondedoorgang,,,,way
-"Denise De Weerdtpad",,,,way
 Dennenlaan,,,,way
 Derbystraat,,,,way
 Destelbergenstraat,,,,way
@@ -529,7 +528,6 @@ Distelvinkstraat,,,,way
 Dobbelslot,,,,way
 Dok-Noord,,,,way
 Dok-Zuid,,,,way
-"Dokter Jean Vercouilliestraat - Jozef Vercoulliestraat",,,,way
 "Domein Antoniushof",,,,way
 Donkersteeg,,,,way
 "Doorgang der Hallegasten",,,,way
@@ -755,7 +753,6 @@ Goudstraat,,,,way
 Goudvinkstraat,,,,way
 Gouvernementstraat,,,,way
 Govaartsakker,,,,way
-"Graaf van Vlaanderenplein",,,,way
 Graanleliepad,,,,way
 Granietstraat,,,,way
 Grasbrug,,,,way
@@ -981,6 +978,7 @@ Jaagpad,,,,way
 "Jan Furnièrestraat",,,,way
 "Jan Rijmstraat",,,,way
 "Jan Samijnstraat",,,,way
+"Jan Yoensvoetbrug",,,,way
 "Jan-Baptist Lombaertdreef",,,,way
 Jemappesstraat,,,,way
 Jeruzalemstraat,,,,way
@@ -1729,6 +1727,7 @@ Ramstraat,,,,way
 Rapenburgstraat,,,,way
 Rasphuisstraat,,,,way
 Ratelaarsweg,,,,way
+Ravelijnstraat,,,,way
 Ravensteinstraat,,,,way
 Ravenstraat,,,,way
 Raveschootstraat,,,,way
@@ -1895,7 +1894,6 @@ Sint-Agnetabrug,,,,way
 Sint-Agnetestraat,,,,way
 Sint-Amandsbergdoorgang,,,,way
 Sint-Antoniusbrug,,,,way
-Sint-Antoniuskaai,,,,way
 Sint-Arnoutstraat,,,,way
 Sint-Baafskouterstraat,,,,way
 Sint-Crispijnstraat,,,,way
@@ -1909,7 +1907,6 @@ Sint-Liesbetsteeg,,,,way
 Sint-Lievenspoortstraat,,,,way
 Sint-Martensblindeken,,,,way
 Sint-Pietersaalststraat,,,,way
-Sint-Pietersnieuwstraat,,,,way
 Sint-Vincentiusplein,,,,way
 Sint-Widostraat,,,,way
 Sisalstraat,,,,way
@@ -2234,6 +2231,7 @@ Waarschootstraat,,,,way
 Wafelijzerhoeve,,,,way
 Waldamkaai,,,,way
 Wallebeekmeers,,,,way
+Wallekenspad,,,,way
 Wallekensstraat,,,,way
 Wallemeers,,,,way
 Walpoortbrug,,,,way

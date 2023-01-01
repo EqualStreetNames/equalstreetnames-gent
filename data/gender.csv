@@ -18,6 +18,7 @@ Aleydispad,wikidata,F,Q100452254,way
 "Chantal Claeysdreef",wikidata,F,Q69581962,way
 "Charlotte Despardstraat",wikidata,F,Q432717,way
 "Christine D'haenhof",wikidata,F,Q3224383,way
+"Denise De Weerdtpad",wikidata,F,Q21539795,way
 "Edith Cavellstraat",wikidata,F,Q237564,way
 "Elisabeth Drorypad",wikidata,F,Q98593388,way
 "Elise Grandprezstraat",wikidata,F,Q98735968,way
@@ -123,6 +124,7 @@ Sint-Veerleplein,wikidata,F,Q929800,way
 "Yvonne Fontainestraat",wikidata,F,Q8062445,way
 "Zoé Borluutbrug",wikidata,F,Q59848073,way
 "Abraham Voortmanstraat",wikidata,M,Q69508452,way
+Abrahamstraat,wikidata,M,Q9181,way
 "Achilles Heyndrickxlaan",wikidata,M,Q16068854,way
 "Achilles Musschestraat",wikidata,M,Q2414646,way
 Adalwinstraat,wikidata,M,Q457903,way
@@ -216,6 +218,7 @@ Bressers-Blanchaertlaan,wikidata,M,Q87651848;Q100386336;Q27842300,way
 "Désiré Mercierlaan",wikidata,M,Q468097,way
 "Désiré Toeffaertstraat",wikidata,M,Q99520380,way
 "Désiré Van Monckhovenstraat",wikidata,M,Q2275763,way
+"Dokter Jean Vercouilliestraat - Jozef Vercoulliestraat",wikidata,M,Q19985969,way
 "Domien Geersstraat",wikidata,M,Q1985738,way
 "Domien Ingelsstraat",wikidata,M,Q2047896,way
 "Domien de Waghemakerestraat",wikidata,M,Q17628998,way
@@ -578,6 +581,7 @@ Rerum-Novarumplein,wikidata,M,Q764378,way
 "Simon de Mirabellostraat",wikidata,M,Q2384998,way
 Sint-Amandplein,wikidata,M,Q453698,way
 Sint-Amandstraat,wikidata,M,Q453698,way
+Sint-Antoniuskaai,wikidata,M,Q167477,way
 Sint-Baafsdorp,wikidata,M,Q457903,way
 Sint-Baafsplein,wikidata,M,Q457903,relation+way
 Sint-Baafssteeg,wikidata,M,Q457903,way
@@ -604,6 +608,7 @@ Sint-Martensstraat,wikidata,M,Q133704,way
 Sint-Mauruspad,wikidata,M,Q380345,way
 Sint-Niklaasstraat,wikidata,M,Q44269,way
 Sint-Paulusstraat,wikidata,M,Q9200,way
+Sint-Pietersnieuwstraat,wikidata,M,Q33923,way
 Sint-Pietersplein,wikidata,M,Q33923,relation+way
 Sint-Rochusplein,wikidata,M,Q152457,way
 Sint-Rochusstraat,wikidata,M,Q152457,way
