@@ -27,6 +27,7 @@ Carneoolstraat,wikidata,,Q324369,way
 Cliviastraat,wikidata,,Q1163100,way
 Cyclamenstraat,wikidata,,Q147295,way
 Dahliastraat,wikidata,,Q130918,way
+"De Pintelaan",wikidata,,Q842454,way
 Deinsesteenweg,wikidata,,Q499313,way
 Dendermondsesteenweg,wikidata,,Q13122,relation+way
 Diamantstraat,wikidata,,Q5283,way
@@ -39,6 +40,7 @@ Eksterstraat,wikidata,,Q25307,way
 Esperantostraat,wikidata,,Q143,way
 Evergemsesteenweg,wikidata,,Q12997,way
 Eversteinbrug,wikidata,,Q20980704,way
+Floraliënlaan,wikidata,,Q1854972,way
 Fuchsiastraat,wikidata,,Q161066,way
 "Gebroeders Van Eyckstraat",wikidata,,Q77577637,way
 Geelgorsstraat,wikidata,,Q26205,way
@@ -62,6 +64,7 @@ Hortensiastraat,wikidata,,Q155997,way
 Houtduifstraat,wikidata,,Q26026,way
 Jadestraat,wikidata,,Q175089,way
 Jakobijnenstraat,wikidata,,Q179885,way
+"Jan Breydelstraat",wikidata,,Q1394408,way
 Jasmijnstraat,wikidata,,Q82014,way
 Jaspisstraat,wikidata,,Q201175,way
 Jupiterstraat,wikidata,,Q319,way
@@ -156,6 +159,7 @@ Wondelgemkaai,wikidata,,Q2332648,way
 Zebrastraat,wikidata,,Q2303588;Q2303588;Q32789,way
 Zilvermeeuwstraat,wikidata,,Q28236,way
 Zinniastraat,wikidata,,Q205106,way
+Zwijnaardsesteenweg,wikidata,,Q2176982,way
 "'t Stuk",,,,way
 A-wegel,,,,way
 Aambeeldstraat,,,,way
@@ -208,6 +212,7 @@ Ambachtstraat,,,,way
 Ambassadeursweg,,,,way
 Amerikalaan,,,,way
 Amethistpad,,,,way
+Amsterdamstraat,,,,way
 Anemoonstraat,,,,way
 Ankerslaan,,,,way
 Annonciadenstraat,,,,way
@@ -503,9 +508,7 @@ Dasstraat,,,,way
 "De Campagne",,,,way
 "De Guchteneërestraat",,,,way
 "De Kemmeterlaan",,,,way
-"De Pintelaan",,,,way
 "De Sterre",,,,way
-"Deborah Lambillottepad",,,,way
 "Deinse Horsweg",,,,way
 Delori-Maeslaan,,,,way
 "Den Holland",,,,way
@@ -611,7 +614,6 @@ Eksaardserijweg,,,,way
 Eksmere,,,,way
 Elfjulistraat,,,,way
 Elfnovemberstraat,,,,way
-"Eliane Vogel-Polskypad",,,,way
 Elsakker,,,,way
 Elshoekstraat,,,,way
 Elshout,,,,way
@@ -1148,6 +1150,7 @@ Kolveniersgang,,,,way
 Komijnstraat,,,,way
 Kompasplein,,,,way
 Kongostraat,,,,way
+"Koning Leopold III-laan",,,,way
 "Koning Nobelplein",,,,way
 Koninginnelaan,,,,way
 Koningsdal,,,,way
@@ -1642,6 +1645,7 @@ Parkplein,,,,way
 Passagierstraat,,,,way
 Pastorijdreef,,,,way
 Patijntjestraat,,,,way
+"Patricia Carsonstraat",,,,way
 Patrijsstraat,,,,way
 Pauwstraat,,,,way
 Paviljoenweg,,,,way
@@ -1889,6 +1893,7 @@ Sierheesterlaan,,,,way
 Siervogelstraat,,,,way
 Sijsjeslaan,,,,way
 Silexstraat,,,,way
+"Simone Duboisstraat",,,,way
 Singel,,,,way
 Sint-Agnetabrug,,,,way
 Sint-Agnetestraat,,,,way
@@ -2395,6 +2400,5 @@ Zwembadstraat,,,,way
 "Zwijnaarde Dries",,,,way
 Zwijnaardemeerspad,,,,way
 "Zwijnaardse Dries",,,,way
-Zwijnaardsesteenweg,,,,way
 Zwijndonkloop,,,,way
 doorsteek,,,,way
