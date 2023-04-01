@@ -37,6 +37,7 @@ Aleydispad,wikidata,F,Q100452254,way
 "Helene Marechalhof",wikidata,F,Q2180738,way
 "Hilda Daneelsstraat",wikidata,F,Q19953867,way
 "Homa Darabistraat",wikidata,F,Q165488,way
+"Huguette Ingelaerestraat",wikidata,F,Q2775402,way
 "Irène Joliotstraat",wikidata,F,Q7504,way
 "Irma Lozinstraat",wikidata,F,Q77579767,way
 "Isabella Van Oostenrijkstraat",wikidata,F,Q157884,way
@@ -51,7 +52,6 @@ Aleydispad,wikidata,F,Q100452254,way
 "Josepha Goethalsstraat",wikidata,F,Q98754150,way
 "Julienne De Plupad",wikidata,F,Q100278092,way
 "Julienne De Vetterstraat",wikidata,F,Q99521484,way
-Keiskantstraat,wikidata,F,Q2775402;Q436758,way
 "Koningin Astridlaan",wikidata,F,Q230238,way
 "Koningin Elisabethlaan",wikidata,F,Q235186,way
 "Koningin Fabiolalaan",wikidata,F,Q231171,way
@@ -68,6 +68,7 @@ Keiskantstraat,wikidata,F,Q2775402;Q436758,way
 "Mai Zetterlingstraat",wikidata,F,Q236656,way
 "Marcella van Hoeckestraat",wikidata,F,Q94422250,way
 "Marcelle Defay-Wibierstraat",wikidata,F,Q76883315,way
+"Marguerite Legotstraat",wikidata,F,Q436758,way
 "Maria Baersstraat",wikidata,F,Q3290883,way
 "Maria van Boergondiëstraat",wikidata,F,Q157073,way
 Maria-Theresiastraat,wikidata,F,Q131706,way
@@ -84,6 +85,7 @@ Maria-Theresiastraat,wikidata,F,Q131706,way
 "May Sartonstraat",wikidata,F,Q2587411,way
 "Miriam Makebaplein",wikidata,F,Q146256,way
 "Nadine Crappéstraat",wikidata,F,Q47458538,way
+"Patricia Carsonstraat",wikidata,F,Q2262168,way
 "Paula Marckxstraat",wikidata,F,Q96743247,way
 "Pauline Van Pottelsberghelaan",wikidata,F,Q81559982,way
 "Pierette Cuelenaerestraat",wikidata,F,Q98446686,way
@@ -98,6 +100,7 @@ Maria-Theresiastraat,wikidata,F,Q131706,way
 "Roza Van De Voordestraat",wikidata,F,Q78678482,way
 "Selma Lagerlöfstraat",wikidata,F,Q44519,way
 "Sidonie Verhelststraat",wikidata,F,Q98556673,way
+"Simone Duboisstraat",wikidata,F,Q28469694,way
 "Simone Moulinpad",wikidata,F,Q98446710,way
 "Simone Verhellestraat",wikidata,F,Q98446670,way
 Sint-Aldegondestraat,wikidata,F,Q271330,way
@@ -218,6 +221,7 @@ Bressers-Blanchaertlaan,wikidata,M,Q87651848;Q100386336;Q27842300,way
 "Desiderius Erasmusstraat",wikidata,M,Q43499,way
 "Désiré Fiévéstraat",wikidata,M,Q15304690,way
 "Désiré Mercierlaan",wikidata,M,Q468097,way
+"Désiré Mercierlaan - Kardinaal Mercierlaan",wikidata,M,Q468097,way
 "Désiré Toeffaertstraat",wikidata,M,Q99520380,way
 "Désiré Van Monckhovenstraat",wikidata,M,Q2275763,way
 "Dokter Jean Vercouilliestraat - Jozef Vercoulliestraat",wikidata,M,Q19985969,way
@@ -451,7 +455,6 @@ Florbertusstraat,wikidata,M,Q2693633,way
 "Julius de Vigneplein",wikidata,M,Q6309747,way
 "Justus Lipsiusstraat",wikidata,M,Q315871,way
 "Justus de Harduwijnlaan",wikidata,M,Q742930,way
-"Kardinaal Mercierlaan",wikidata,M,Q468097,way
 "Karel Antheunisstraat",wikidata,M,Q19841456,way
 "Karel Bauwensstraat",wikidata,M,Q98930319,way
 "Karel De Bondtlaan",wikidata,M,Q1932085,way
