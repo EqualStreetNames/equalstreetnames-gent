@@ -161,6 +161,7 @@ Zinniastraat,wikidata,,Q205106,way
 Zwijnaardsesteenweg,wikidata,,Q2176982,way
 "'t Stuk",,,,way
 A-wegel,,,,way
+Aakstraat,,,,way
 Aambeeldstraat,,,,way
 "Aan de Bocht",,,,way
 "Aan de Linde",,,,way
@@ -200,7 +201,6 @@ Akkerstraat,,,,way
 Akkerwindelaan,,,,way
 Albatrosstraat,,,,way
 Alexianenplein,,,,way
-"Alijt Bakehof",,,,way
 Alisepad,,,,way
 Alkstraat,,,,way
 Alsemweg,,,,way
@@ -233,7 +233,6 @@ Asterdreef,,,,way
 Athenastraat,,,,way
 Atlantastraat,,,,way
 Atletiekplein,,,,way
-"Auguste Van Ooststraat",,,,way
 Augustijnenkaai,,,,way
 Australiëstraat,,,,way
 Autoweg-Noord,,,,way
@@ -328,7 +327,6 @@ Biezekapelsteeg,,,,way
 Biezekapelstraat,,,,way
 Biezenstraat,,,,way
 Biezenstuk,,,,way
-"Bij Sint-Jozef",,,,way
 Bijenstraat,,,,way
 Bijken,,,,way
 Bijlokehof,,,,way
@@ -1629,7 +1627,6 @@ Palissanderpad,,,,way
 Palmendreef,,,,way
 Pannestraat,,,,way
 Pantserschipstraat,,,,way
-"Pantserschipstraat = Aakstraat",,,,way
 Papegaaistraat,,,,way
 Papiermolenstraat,,,,way
 Papinnestraat,,,,way
@@ -1671,6 +1668,7 @@ Pijndersstraat,,,,way
 Pijphoekstraat,,,,way
 Pilorijnstraat,,,,way
 Piratenstraat,,,,way
+Piribeylipad,,,,way
 Platteberg,,,,way
 Pleispark,,,,way
 Pleitstraat,,,,way
@@ -1762,6 +1760,7 @@ Riemekaai,,,,way
 Rietgracht,,,,way
 Rietorchisstraat,,,,way
 Rietstraat,,,,way
+Rietwegel,,,,way
 Rietzangerstraat,,,,way
 Rijakker,,,,way
 Rijkegasthuisbos,,,,way
@@ -2130,7 +2129,6 @@ Varendriesstraat,,,,way
 Varenstraat,,,,way
 Varkensstraat,,,,way
 Veenakkerpad,,,,way
-Veergrep,,,,way
 Veerkaai,,,,way
 Veermanplein,,,,way
 Veerpontstraat,,,,way
@@ -2156,6 +2154,7 @@ Veronicastraat,,,,way
 Verpleegstersstraat,,,,way
 Verschansingsstraat,,,,way
 Ververijstraat,,,,way
+Verzetspad,,,,way
 Veurestraat,,,,way
 Viaductstraat,,,,way
 Victoriastraat,,,,way
@@ -2165,7 +2164,6 @@ Vierlinden,,,,way
 Vierlindenpad,,,,way
 Vierschaarlaan,,,,way
 Vierweegsestraat,,,,way
-Vijfhoekstraat,,,,way
 Vijfwindgatenstraat,,,,way
 Vijverhof,,,,way
 Vijvermeerspark,,,,way
@@ -2406,3 +2404,5 @@ Zwijnaardemeerspad,,,,way
 "Zwijnaardse Dries",,,,way
 Zwijndonkloop,,,,way
 doorsteek,,,,way
+"tijdelijke fietspad via parking 2 wegs",,,,way
+"tijdelijke omleiding voor fietsers",,,,way

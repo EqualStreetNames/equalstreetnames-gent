@@ -2,6 +2,7 @@ name,source,gender,wikidata,type
 "Albertina Sisulubrug",wikidata,F,Q467744,way
 Aleydispad,wikidata,F,Q100452254,way
 "Alice Béviairepad",wikidata,F,Q69575062,way
+"Alijt Bakehof",wikidata,F,Q19680805,way
 "Amanda Foketstraat",wikidata,F,Q77582580,way
 "Amelia Earhartlaan",wikidata,F,Q3355,way
 "Annie Vande Wielebrug",wikidata,F,Q19947772,way
@@ -186,12 +187,14 @@ Adalwinstraat,wikidata,M,Q457903,way
 "August Van Lokerenstraat",wikidata,M,Q20155132,way
 "August Vermeylenstraat",wikidata,M,Q764378,way
 "August van Geertstraat",wikidata,M,Q5711538,way
+"Auguste Van Ooststraat",wikidata,M,Q112126340,way
 "Augustijn Moreelsstraat",wikidata,M,Q99275492,way
 "Bernard Hamelinckstraat",wikidata,M,Q98929144,way
 "Bernard Montgomerydreef",wikidata,M,Q152025,way
 "Bernard Spaelaan",wikidata,M,Q69571517,way
 "Bernard de Wildestraat",wikidata,M,Q2384173,way
-"Bij Sint-Jacobs",wikidata,M,Q14517521,way
+"Bij Sint-Jacobs",wikidata,M,Q14517521;Q43999,way
+"Bij Sint-Jozef",wikidata,M,Q128267,way
 "Boudewijn van der Lorestraat",wikidata,M,Q20963459,way
 Bressers-Blanchaertlaan,wikidata,M,Q87651848;Q100386336;Q27842300,way
 "Camille D'havéstraat",wikidata,M,Q22236649,way
@@ -519,7 +522,7 @@ Lothariusstraat,wikidata,M,Q150735,way
 "Maurits Gysselingstraat",wikidata,M,Q2610343,way
 "Maurits Sabbestraat",wikidata,M,Q2682894,way
 "Maurits Van Lierdestraat",wikidata,M,Q100276585,way
-"Michel Thieryhof",wikidata,M,Q64504188,way
+"Michel Thieryhof",wikidata,M,Q20973399,way
 "Napoleon Destanbergstraat",wikidata,M,Q2162752,way
 "Napoleon de Pauwbrug",wikidata,M,Q18654812,way
 "Nelson Mandelapromenade",wikidata,M,Q8023,way
