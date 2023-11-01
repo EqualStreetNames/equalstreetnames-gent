@@ -165,7 +165,6 @@ Rugbylaan,wikidata,,Q5378,way
 Saffierstraat,wikidata,,Q127583,way
 Santosstraat,wikidata,,Q84,way
 Sijsjeslaan,wikidata,,Q27075864,way
-Sint-Michielsbrug,wikidata,,Q45581,way
 Sint-Michielshelling,wikidata,,Q45581,way
 Sint-Michielsplein,wikidata,,Q45581,way
 Sint-Michielsstraat,wikidata,,Q45581,way
@@ -606,6 +605,7 @@ Drietorekensstraat,,,,way
 Driezwaantjesstraat,,,,way
 Drongenhof,,,,way
 Drongenplein,,,,way
+"Drongense Steenweg",,,,way
 Droogveldeweg,,,,way
 Druifstraat,,,,way
 Dublinstraat,,,,way
@@ -794,6 +794,7 @@ Grasbrug,,,,way
 Grasland,,,,way
 Graslei,,,,relation
 Grauwpoort,,,,way
+Gravenbolwerkstraat,,,,way
 Grenensteeg,,,,way
 Grensstraat,,,,way
 Griendeplein,,,,way
@@ -1325,6 +1326,7 @@ Leisbulkstraat,,,,way
 Leithstraat,,,,way
 Leliestraat,,,,way
 Lentestraat,,,,way
+Lepelpad,,,,way
 Lettelbroeklaan,,,,way
 Lichterveldestraat,,,,way
 Liefbilkstraat,,,,way
@@ -1634,7 +1636,7 @@ Oudevest,,,,way
 Oudewal,,,,way
 Oudewee,,,,way
 Overmeersstraat,,,,way
-Overpoortstraat,,,,relation+way
+Overpoortstraat,,,,relation
 Overreke,,,,way
 Overwale,,,,way
 Overzet,,,,way
@@ -1719,7 +1721,6 @@ Portugalstraat,,,,way
 Posteernestraat,,,,way
 Posthoornstraat,,,,way
 Potuitstraat,,,,way
-Predikherenbrug,,,,way
 Predikherenlei,,,,way
 Prelaatsdreef,,,,way
 Prelaatspad,,,,way
@@ -1758,7 +1759,6 @@ Ravensteinstraat,,,,way
 Ravenstraat,,,,way
 Raveschootstraat,,,,way
 Rechtstraat,,,,way
-Recollettenbrug,,,,way
 Recollettenlei,,,,way
 Rederijkersstraat,,,,way
 Redersplein,,,,way
