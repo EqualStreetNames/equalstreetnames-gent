@@ -548,7 +548,6 @@ Dasstraat,,,,way
 "De Campagne",,,,way
 "De Guchteneërestraat",,,,way
 "De Kemmeterlaan",,,,way
-"De Sterre",,,,way
 "Deinse Horsweg",,,,way
 Delori-Maeslaan,,,,way
 "Den Holland",,,,way
@@ -914,7 +913,7 @@ Hertogstraat,,,,way
 Hertooie,,,,way
 Hertooiebos,,,,way
 "Het Kamp",,,,way
-Heuvelpoort,,,,way
+Heusdenbaan,,,,way
 Hindestraat,,,,way
 Hippodroomlaan,,,,way
 Hoefijzerstraat,,,,way
@@ -1636,7 +1635,7 @@ Oudevest,,,,way
 Oudewal,,,,way
 Oudewee,,,,way
 Overmeersstraat,,,,way
-Overpoortstraat,,,,relation
+Overpoortstraat,,,,relation+way
 Overreke,,,,way
 Overwale,,,,way
 Overzet,,,,way
@@ -1738,7 +1737,6 @@ Pussemierstraat,,,,way
 Putkapelstraat,,,,way
 Putstraat,,,,way
 Puttemeerswegel,,,,way
-Puttenpark,,,,way
 Putteveldestraat,,,,way
 R4,,,,way
 Raaktstraat,,,,way
@@ -2409,4 +2407,3 @@ Zwembadstraat,,,,way
 Zwijnaardemeerspad,,,,way
 "Zwijnaardse Dries",,,,way
 Zwijndonkloop,,,,way
-doorsteek,,,,way
