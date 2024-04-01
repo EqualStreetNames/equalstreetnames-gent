@@ -6,6 +6,7 @@ Aambeeldstraat,wikidata,,Q2026592,way
 Abrikoosstraat,wikidata,,Q37453,way
 Afrikalaan,wikidata,,Q15,way
 Agaatstraat,wikidata,,Q123314,way
+Akkerwindelaan,wikidata,,Q111346,way
 Albaststraat,wikidata,,Q143447,way
 Alpacastraat,wikidata,,Q2303588;Q81564,way
 Amethistpad,wikidata,,Q79058,way
@@ -19,6 +20,7 @@ Belgradostraat,wikidata,,Q3711,way
 Berkendreef,wikidata,,Q25243,way
 Berkenhof,wikidata,,Q25243,way
 Bezaanstraat,wikidata,,Q2144942,way
+Binnenring-Drongen,wikidata,,Q1260195,way
 Blandijnberg,wikidata,,Q2418415,way
 Blankenbergestraat,wikidata,,Q328104,way
 Blauwborstpad,wikidata,,Q26578,way
@@ -27,12 +29,14 @@ Borluutplein,wikidata,,Q2996372,way
 Borluutstraat,wikidata,,Q2996372,way
 Bosduifstraat,wikidata,,Q26026,way
 Bosrietzangerpad,wikidata,,Q210422,way
+Bosstraat,wikidata,,Q48569604,way
 Bosuilstraat,wikidata,,Q25756,way
 Brankardierstraat,wikidata,,Q2923662,way
 Brugsesteenweg,wikidata,,Q12994,way
 Brugsevaart,wikidata,,Q12994,way
 Bruiloftstraat,wikidata,,Q49836,way
 Buffelstraat,wikidata,,Q2303588;Q4979192,way
+Buitenring-Drongen,wikidata,,Q1260195,way
 Cameliastraat,wikidata,,Q212815,way
 Cantecleerstraat,wikidata,,Q123668004,way
 Carneoolstraat,wikidata,,Q324369,way
@@ -42,7 +46,6 @@ Dahliastraat,wikidata,,Q130918,way
 "De Pintelaan",wikidata,,Q21768637;Q842454,way
 Deinsesteenweg,wikidata,,Q499313,way
 "Den Bellaertbrug",wikidata,,Q122852519,way
-Dendermondsesteenweg,wikidata,,Q13122,relation+way
 Desteldonkstraat,wikidata,,Q1988333,way
 Diamantstraat,wikidata,,Q5283,way
 Dierentuinlaan,wikidata,,Q2303588,way
@@ -66,6 +69,7 @@ Floraliënlaan,wikidata,,Q1854972,way
 Fuchsiastraat,wikidata,,Q161066,way
 "Gebroeders Van Eyckstraat",wikidata,,Q77577637,way
 Geelgorsstraat,wikidata,,Q26205,way
+Gemberstraat,wikidata,,Q35625,way
 Gentbruggeplein,wikidata,,Q680916,way
 Gentbruggestraat,wikidata,,Q680916,way
 Gerststraat,wikidata,,Q11577,way
@@ -95,6 +99,7 @@ Hertstraat,wikidata,,Q2303588;Q2303588;Q23390,way
 Hoornbladstraat,wikidata,,Q21795,way
 Hortensiastraat,wikidata,,Q155997,way
 Houtduifstraat,wikidata,,Q26026,way
+Hutsepotstraat,wikidata,,Q2592256,way
 Isegrimstraat,wikidata,,Q26271672,way
 Jadestraat,wikidata,,Q175089,way
 Jakobijnenstraat,wikidata,,Q179885,way
@@ -109,8 +114,10 @@ Kauwplein,wikidata,,Q25394,way
 Keviestraat,wikidata,,Q2303588;Q25392,way
 Kievitlaan,wikidata,,Q25392,way
 Kiezelstraat,wikidata,,Q670,way
+Kikvorsstraat,wikidata,,Q3116510,way
 Klapeksterstraat,wikidata,,Q184508,way
 Klauwierstraat,wikidata,,Q171052,way
+"Kleine Gentstraat",wikidata,,Q1296,way
 Knokkestraat,wikidata,,Q2437344,way
 Koebraampad,wikidata,,Q59843,way
 Koekoeklaan,wikidata,,Q18845,way
@@ -127,6 +134,7 @@ Kristalstraat,wikidata,,Q43533,way
 Kwartspad,wikidata,,Q43010,way
 "Lamme Goedzakstraat",wikidata,,Q2791154,way
 Lariksstraat,wikidata,,Q25618,way
+Laurierstraat,wikidata,,Q26006,way
 Lavendelstraat,wikidata,,Q171892,way
 Lazuurstraat,wikidata,,Q216798,way
 Leeuwstraat,wikidata,,Q2303588;Q140,way
@@ -201,6 +209,7 @@ Roggestraat,wikidata,,Q12099,way
 Roodborstjesstraat,wikidata,,Q25334,way
 Rootgrachtpad,wikidata,,Q122852792,way
 Rotterdamstraat,wikidata,,Q34370,way
+Rozenlaan,wikidata,,Q34687,way
 Rugbylaan,wikidata,,Q5378,way
 Saffierstraat,wikidata,,Q127583,way
 Salamanderstraat,wikidata,,Q53663,way
@@ -233,6 +242,7 @@ Venusstraat,wikidata,,Q313,way
 Verenigde-Natieslaan,wikidata,,Q1065,way
 Verzetspad,wikidata,,Q122852678,way
 "Victoria Regiapark",wikidata,,Q33130427,way
+Vinderhoutsedam,wikidata,,Q1841810,way
 Vinkenlaan,wikidata,,Q160835,way
 Vlasmarkt,wikidata,,Q45108,way
 Voetbalstraat,wikidata,,Q2736,way
@@ -285,7 +295,6 @@ Ajuinlei,,,,way
 Ajuinmarktstraat,,,,way
 Akkerhage,,,,way
 Akkerstraat,,,,way
-Akkerwindelaan,,,,way
 Albatrosstraat,,,,way
 Alexianenplein,,,,way
 Alisepad,,,,way
@@ -388,8 +397,6 @@ Bennesteeg,,,,way
 Benninsbrugstraat,,,,way
 Berkhoutsheide,,,,way
 Bernheimlaan,,,,way
-Bernmaaieplein,,,,way
-Bernmaaieweg,,,,way
 Berouw,,,,way
 Beukelaarstraat,,,,way
 Beukendreef,,,,way
@@ -421,7 +428,6 @@ Bijlokemeers,,,,way
 Bijlokestraat,,,,way
 Bijlokevest,,,,way
 Bijzeriggepad,,,,way
-Binnenring-Drongen,,,,way
 Binnenring-Sint-Denijs,,,,way
 Binnenring-Vinderhoute,,,,way
 Binnenring-Zwijnaarde,,,,way
@@ -475,7 +481,6 @@ Borreputsteeg,,,,way
 Bosakker,,,,way
 Bosbulkpad,,,,way
 Boskeetstraat,,,,way
-Bosstraat,,,,way
 Boswachterstraat,,,,way
 Boterbloemlaan,,,,way
 Botermarkt,,,,way
@@ -510,8 +515,6 @@ Broekkantstraat,,,,way
 Broekstraat,,,,way
 Bromeliastraat,,,,way
 Bronsstraat,,,,way
-Bronstijdhof,,,,way
-Bronstijdweg,,,,way
 Brouwerijstraat,,,,way
 Brouwersgracht,,,,way
 Brouwersstraat,,,,way
@@ -528,11 +531,11 @@ Buchtenstraat,,,,way
 Buisstraat,,,,way
 Buitenhof,,,,way
 "Buitenring Zwijnaarde",,,,way
-Buitenring-Drongen,,,,way
 Buitenring-Sint-Denijs,,,,way
 Buitenring-Wondelgem,,,,way
 Buitenring-Zwijnaarde,,,,way
 Buitensingel,,,,way
+Buitenwalledoorgang,,,,way
 Buitenwallepad,,,,way
 Buitenwalleplein,,,,way
 Bunderhof,,,,way
@@ -584,6 +587,7 @@ Daknamstraat,,,,way
 Damaststraat,,,,way
 Dammeerspad,,,,way
 Dampoortstraat,,,,way
+Dampoortwijk,,,,relation
 Damstraat,,,,way
 Dapperheidstraat,,,,way
 Dasstraat,,,,way
@@ -596,6 +600,7 @@ Delori-Maeslaan,,,,way
 "Den Wyngaert",,,,way
 Denderlaan,,,,way
 Dendermondedoorgang,,,,way
+Dendermondsesteenweg,,,,relation
 Dennenlaan,,,,way
 Derbystraat,,,,way
 Destelbergenstraat,,,,way
@@ -782,7 +787,6 @@ Geitstraat,,,,way
 Geizegemstraat,,,,way
 Geldmunt,,,,way
 Gelukstraat,,,,way
-Gemberstraat,,,,way
 Gemeenteplein,,,,way
 Gentbrugge,,,,way
 Gentbruggeaard,,,,way
@@ -1009,7 +1013,6 @@ Hulsterlostraat,,,,way
 Hulststraat,,,,way
 Hundelgemsesteenweg,,,,way
 Hurstweg,,,,way
-Hutsepotstraat,,,,way
 Huttestraat,,,,way
 Huurhouderijstraat,,,,way
 Hyacintstraat,,,,way
@@ -1018,15 +1021,12 @@ IJskelderstraat,,,,way
 IJsvogelstraat,,,,way
 IJzendijkestraat,,,,way
 IJzerlaan,,,,way
-IJzertijdhof,,,,way
-IJzertijdweg,,,,way
 IJzerweglaan,,,,way
 Ibisstraat,,,,way
 Idealstraat,,,,way
 Idewallepad,,,,way
 Iepensteeg,,,,way
 Iepenstraat,,,,way
-Ijzertijdhof,,,,way
 Imsakkerlaan,,,,way
 Indigopad,,,,way
 Industriepark-Drongen,,,,way
@@ -1142,7 +1142,6 @@ Keuzemeers,,,,way
 Kiekenbosstraat,,,,way
 Kiekenstraat,,,,way
 Kijfmeers,,,,way
-Kikvorsstraat,,,,way
 Kinderrechtenplein,,,,way
 Kineastlaan,,,,way
 Kioskpad,,,,way
@@ -1162,7 +1161,6 @@ Kleimoer,,,,way
 Kleindokkaai,,,,way
 "Kleine Broekstraat",,,,way
 "Kleine Duddegemstraat",,,,way
-"Kleine Gentstraat",,,,way
 "Kleine Goedingenstraat",,,,way
 "Kleine Kerkstraat",,,,way
 "Kleine Schuurstraat",,,,way
@@ -1263,7 +1261,6 @@ Krijgslaan,,,,way
 Krijtekerkweg,,,,way
 Krijtestraat,,,,way
 Krijzeltand,,,,way
-Kringgreppelstraat,,,,way
 "Kromme Leie",,,,way
 Krommeboom,,,,way
 Krommebunderstraat,,,,way
@@ -1325,7 +1322,6 @@ Langerbruggestraat,,,,way
 Langestraat,,,,way
 Langeveld,,,,way
 Langhalsstraat,,,,way
-Laurierstraat,,,,way
 Lauwstraat,,,,way
 Lazariepad,,,,way
 Ledebergplein,,,,way
@@ -1433,7 +1429,6 @@ Martelaarslaan,,,,way
 "Mathias Gesweinstraat",,,,way
 Matrozenstraat,,,,way
 Mattestede,,,,way
-"Maurice Dewulflaan",,,,way
 Mazestraat,,,,way
 Meekrapstraat,,,,way
 Meerakker,,,,way
@@ -1825,8 +1820,6 @@ Roerstraat,,,,way
 "Roger De Letterstraat",,,,way
 Rokerelsstraat,,,,way
 "Romeins pad",,,,way
-"Romeinse Hof",,,,way
-"Romeinse Weg",,,,way
 Rommelwaterpark,,,,way
 Rondehuisjesdreef,,,,way
 Ronselestraat,,,,way
@@ -1840,7 +1833,6 @@ Rozebroekslag,,,,way
 Rozebroekstraat,,,,way
 Rozemarijnstraat,,,,way
 Rozendaalken,,,,way
-Rozenlaan,,,,way
 Rozenpark,,,,way
 Rozier,,,,way
 Rubberpad,,,,way
@@ -2187,7 +2179,6 @@ Vijfwindgatenstraat,,,,way
 Vijverhof,,,,way
 Vijvermeerspark,,,,way
 Vijverstraat,,,,way
-Vinderhoutsedam,,,,way
 Vinkendal,,,,way
 Vinkeslagstraat,,,,way
 Violierstraat,,,,way
@@ -2338,7 +2329,6 @@ Wittemolenstraat,,,,way
 Wittepaalpad,,,,way
 Wittepaalstraat,,,,way
 Wittewalle,,,,way
-"Wittewalle / Rostijnestraat",,,,way
 Woeringenstraat,,,,way
 Woestijnegoedlaan,,,,way
 Wolfputstraat,,,,way
