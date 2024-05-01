@@ -70,6 +70,7 @@ Fuchsiastraat,wikidata,,Q161066,way
 "Gebroeders Van Eyckstraat",wikidata,,Q77577637,way
 Geelgorsstraat,wikidata,,Q26205,way
 Gemberstraat,wikidata,,Q35625,way
+Gentbruggebrug,wikidata,,Q680916,way
 Gentbruggeplein,wikidata,,Q680916,way
 Gentbruggestraat,wikidata,,Q680916,way
 Gerststraat,wikidata,,Q11577,way
@@ -397,6 +398,8 @@ Bennesteeg,,,,way
 Benninsbrugstraat,,,,way
 Berkhoutsheide,,,,way
 Bernheimlaan,,,,way
+Bernmaaieplein,,,,way
+Bernmaaieweg,,,,way
 Berouw,,,,way
 Beukelaarstraat,,,,way
 Beukendreef,,,,way
@@ -451,7 +454,6 @@ Bloembilkstraat,,,,way
 Bloemistenstraat,,,,way
 Bloemstraat,,,,way
 Blotevoetenpad,,,,way
-Boegbeeldstraat,,,,way
 Boeierstraat,,,,way
 Boekhoutestraat,,,,way
 Boeksteeg,,,,way
@@ -515,6 +517,8 @@ Broekkantstraat,,,,way
 Broekstraat,,,,way
 Bromeliastraat,,,,way
 Bronsstraat,,,,way
+Bronstijdhof,,,,way
+Bronstijdweg,,,,way
 Brouwerijstraat,,,,way
 Brouwersgracht,,,,way
 Brouwersstraat,,,,way
@@ -626,6 +630,7 @@ Doornweide,,,,way
 "Doornzele Dries",,,,way
 Doornzelestraat,,,,way
 Dordrechtstraat,,,,way
+Dorpsplein,,,,way
 Dorpsstraat,,,,way
 Dosweg,,,,way
 Dovenetelstraat,,,,way
@@ -797,6 +802,7 @@ Gentseaardeweg,,,,way
 Gentstraat,,,,way
 "Geraard De Duivel",,,,way
 Geraniumstraat,,,,way
+"Gertrude Elionpad",,,,way
 Gestichtstraat,,,,way
 Getouwstraat,,,,way
 Geuzenberg,,,,way
@@ -816,7 +822,6 @@ Goedingenstraat,,,,way
 Goedjens,,,,way
 Goedlevenstraat,,,,way
 Golfweg,,,,way
-Gondelstraat,,,,way
 "Gontrode Heirweg",,,,way
 Gontrodestraat,,,,way
 Goolestraat,,,,way
@@ -1021,12 +1026,15 @@ IJskelderstraat,,,,way
 IJsvogelstraat,,,,way
 IJzendijkestraat,,,,way
 IJzerlaan,,,,way
+IJzertijdhof,,,,way
+IJzertijdweg,,,,way
 IJzerweglaan,,,,way
 Ibisstraat,,,,way
 Idealstraat,,,,way
 Idewallepad,,,,way
 Iepensteeg,,,,way
 Iepenstraat,,,,way
+Ijzertijdhof,,,,way
 Imsakkerlaan,,,,way
 Indigopad,,,,way
 Industriepark-Drongen,,,,way
@@ -1227,7 +1235,6 @@ Korianderstraat,,,,way
 "Korte Kruisstraat",,,,way
 "Korte Magerstraat",,,,way
 "Korte Mate",,,,way
-"Korte Meer",,,,way
 "Korte Rijakkerstraat",,,,way
 "Korte Straatje",,,,way
 Kortedagsteeg,,,,way
@@ -1261,6 +1268,7 @@ Krijgslaan,,,,way
 Krijtekerkweg,,,,way
 Krijtestraat,,,,way
 Krijzeltand,,,,way
+Kringgreppelstraat,,,,way
 "Kromme Leie",,,,way
 Krommeboom,,,,way
 Krommebunderstraat,,,,way
@@ -1558,6 +1566,7 @@ Nimfenstraat,,,,way
 Noendries,,,,way
 Nokerstraat,,,,way
 Nonnemeersstraat,,,,way
+Nonnenstraat,,,,way
 Noordakker,,,,way
 Noordbroek,,,,way
 Noorderdoorgang,,,,way
@@ -1582,7 +1591,6 @@ Offerlaan,,,,way
 Okkernootsteeg,,,,way
 Oktrooidoorgang,,,,way
 Oktrooiplein,,,,way
-"Oktrooiplein (tijdelijke knip Dampoort)",,,,way
 Oliestraat,,,,way
 Olijfstraat,,,,way
 Olmstraat,,,,way
@@ -1820,6 +1828,8 @@ Roerstraat,,,,way
 "Roger De Letterstraat",,,,way
 Rokerelsstraat,,,,way
 "Romeins pad",,,,way
+"Romeinse Hof",,,,way
+"Romeinse Weg",,,,way
 Rommelwaterpark,,,,way
 Rondehuisjesdreef,,,,way
 Ronselestraat,,,,way
@@ -1827,6 +1837,7 @@ Rooigemlaan,,,,way
 Roomanstraat,,,,way
 Roosakker,,,,way
 Rooskenstraat,,,,way
+"Rosalyn Yalowpad",,,,way
 Rosdamstraat,,,,way
 Rouenpad,,,,way
 Rozebroekslag,,,,way
@@ -1871,7 +1882,6 @@ Scharlakenstraat,,,,way
 Schaverdijnstraat,,,,way
 Scheeplosserstraat,,,,way
 Scheepsankerstraat,,,,way
-Scheepsruimplein,,,,way
 Scheepvaartstraat,,,,way
 Scheepzatestraat,,,,way
 Scheldekaai,,,,way
@@ -2052,7 +2062,6 @@ Tabakstraatje,,,,way
 Takkebosstraat,,,,way
 Tapuitstraat,,,,way
 Tarbotstraat,,,,way
-Taxusstraat,,,,way
 "Te Winkel",,,,way
 Teaterstraat,,,,way
 Technologiepark-Zwijnaarde,,,,way
