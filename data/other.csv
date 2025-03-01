@@ -282,6 +282,7 @@ Academiebrug,,,,way
 Academiestraat,,,,way
 Achtene,,,,way
 Achtenkouterstraat,,,,way
+Achterdokkaai,,,,way
 Achterdries,,,,way
 Achterhekers,,,,way
 Achterhekerspad,,,,way
@@ -318,6 +319,7 @@ Anemoonstraat,,,,way
 Ankerslaan,,,,way
 Annonciadenstraat,,,,way
 Antwerpenplein,,,,way
+"Antwerpse Steenweg / Antwerpsesteenweg",,,,way
 Antwerpsesteenweg,,,,way
 Antwerpsevoetweg,,,,way
 Apostelhuizen,,,,way
@@ -710,7 +712,6 @@ Eksaardserijweg,,,,way
 Eksmere,,,,way
 Elfjulistraat,,,,way
 Elfnovemberstraat,,,,way
-"Elisabeth Demoliestraat",,,,way
 Elsakker,,,,way
 Elshoekstraat,,,,way
 Elshout,,,,way
@@ -824,7 +825,6 @@ Gezondheidstraat,,,,way
 Gijzelaarsweg,,,,way
 Gijzelstraat,,,,way
 "Gilbert Temmermanplein",,,,way
-"Gilberte Boydensstraat",,,,way
 Gildestraat,,,,way
 Gladioollaan,,,,way
 "Godelieve Joliestraat",,,,way
@@ -1555,7 +1555,6 @@ Neststraat,,,,way
 Neuseplein,,,,way
 "Nevelse Heerweg",,,,way
 New-Yorkstraat,,,,way
-Nieuwbrug,,,,way
 Nieuwbrugkaai,,,,way
 Nieuwebosstraat,,,,way
 Nieuwelaan,,,,way
@@ -1573,7 +1572,6 @@ Nieuwstraat,,,,way
 Nijverheidskaai,,,,way
 Nijverheidstraat,,,,way
 Nimfenstraat,,,,way
-"Nina de Ruickstraat",,,,way
 Noendries,,,,way
 Nokerstraat,,,,way
 Nonnemeersstraat,,,,way
@@ -1852,6 +1850,7 @@ Roomanstraat,,,,way
 Roosakker,,,,way
 Rooskenstraat,,,,way
 Rosdamstraat,,,,way
+"Rostijnenstraat / Rostijnestraat",,,,way
 Rouenpad,,,,way
 Rozebroekslag,,,,way
 Rozebroekstraat,,,,way
@@ -1890,6 +1889,7 @@ Schaarkenstraat,,,,way
 Schaatsmeers,,,,way
 Schaliestraat,,,,way
 Schaloenstraat,,,,way
+Schansakker,,,,way
 Schapenfokkerspad,,,,way
 Scharlakenstraat,,,,way
 Schaverdijnstraat,,,,way
@@ -2072,7 +2072,6 @@ Stukwerkersstraat,,,,way
 Suikerijsteeg,,,,way
 Sumakpad,,,,way
 Surkelbulk,,,,way
-"Suzanne Van Meursstraat",,,,way
 Tabakstraatje,,,,way
 Takkebosstraat,,,,way
 Tapuitstraat,,,,way
@@ -2212,6 +2211,7 @@ Visdiefpad,,,,way
 Visitatiestraat,,,,way
 Visserij,,,,way
 Vissersdijk,,,,way
+Vlaaienpad,,,,way
 Vlaamse-Hefboomweg,,,,way
 Vlaamsekaai,,,,way
 Vlaanderenstraat,,,,way
@@ -2438,3 +2438,4 @@ Zwembadstraat,,,,way
 Zwijnaardemeerspad,,,,way
 "Zwijnaardse Dries",,,,way
 Zwijndonkloop,,,,way
+Zwinpad,,,,way
