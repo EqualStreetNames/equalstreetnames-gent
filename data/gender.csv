@@ -37,7 +37,7 @@ Aleydispad,wikidata,F,Q100452254,way
 "Gravin Johannastraat",wikidata,F,Q466311,way
 "Hannah Arendtstraat",wikidata,F,Q60025,way
 "Hélène Mallebranckestraat",wikidata,F,Q98314987,way
-"Helene Marechalhof",wikidata,F,Q2180738,way
+"Hélène Maréchalhof",wikidata,F,Q2180738,way
 "Henriette Casierpad",wikidata,F,Q124463464,way
 "Hilda Daneelsstraat",wikidata,F,Q19953867,way
 "Homa Darabistraat",wikidata,F,Q165488,way
@@ -214,7 +214,7 @@ Bressers-Blanchaertlaan,wikidata,M,Q87651848;Q100386336;Q27842300,way
 "Charles Doudeletstraat",wikidata,M,Q2282495,way
 "Charles Van Lerbergheplein",wikidata,M,Q93871,way
 "Charles de Kerchovelaan",wikidata,M,Q2400060,way
-"Charles de l'Épéeplein",wikidata,M,Q860155,way
+"Charles de l'Epéeplein",wikidata,M,Q860155,way
 "Christiaan Van Der Heydenlaan",wikidata,M,Q98929159,way
 "Christoffel Columbuslaan",wikidata,M,Q7322,way
 "Constant Dosscheweg",wikidata,M,Q98594482,way
@@ -230,7 +230,6 @@ Bressers-Blanchaertlaan,wikidata,M,Q87651848;Q100386336;Q27842300,way
 "David 't Kindtplein",wikidata,M,Q5241499,way
 "David Tenierslaan",wikidata,M,Q622729,way
 "De Naeyerdreef",wikidata,M,Q721781,way
-"Della Faillepark",wikidata,M,Q11303367,way
 "Desiderius Erasmusstraat",wikidata,M,Q43499,way
 "Désiré Fiévéstraat",wikidata,M,Q15304690,way
 "Désiré Mercierlaan",wikidata,M,Q468097,way
@@ -274,6 +273,7 @@ Bressers-Blanchaertlaan,wikidata,M,Q87651848;Q100386336;Q27842300,way
 "Ernest Solvynsdreef",wikidata,M,Q18069466,way
 "Ernest Vanhaevermaetestraat",wikidata,M,Q98929194,way
 "Esplanade Oscar Van de Voorde",wikidata,M,Q70192668,way
+"Etienne della Faillepark",wikidata,M,Q11303367,way
 "Eugeen Zetternamstraat",wikidata,M,Q3233353,way
 "Eugène Felixdreef",wikidata,M,Q98929420,way
 "Evarist De Buckstraat",wikidata,M,Q2488620,way
@@ -591,8 +591,8 @@ Lothariusstraat,wikidata,M,Q150735,way
 "Rembert Dodoensdreef",wikidata,M,Q437466,way
 "Remi Vlerickstraat",wikidata,M,Q100271411,way
 "Renaat De Rudderstraat",wikidata,M,Q2035699,way
-"Rene Van De Puttestraat",wikidata,M,Q100271518,way
-Rerum-Novarumplein,wikidata,M,Q764378,way
+"René Van De Puttestraat",wikidata,M,Q100271518,way
+Rerum-Novarumplein,wikidata,M,Q764378,relation+way
 "Robert Rinskopflaan",wikidata,M,Q18001719,way
 "Rogier van der Weydenlaan",wikidata,M,Q68631,way
 "Romain Clausstraat",wikidata,M,Q98780572,way

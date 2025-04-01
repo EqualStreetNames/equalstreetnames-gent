@@ -40,6 +40,7 @@ Buitenring-Drongen,wikidata,,Q1260195,way
 Cameliastraat,wikidata,,Q212815,way
 Cantecleerstraat,wikidata,,Q123668004,way
 Carneoolstraat,wikidata,,Q324369,way
+Clarissenstraat,wikidata,,Q733658,way
 Cliviastraat,wikidata,,Q1163100,way
 Cyclamenstraat,wikidata,,Q147295,way
 Dahliastraat,wikidata,,Q130918,way
@@ -53,6 +54,7 @@ Diksmuidestraat,wikidata,,Q215244,way
 Distelvinkstraat,wikidata,,Q25418,way
 Drongensesteenweg,wikidata,,Q1260195,way
 Drongenstationstraat,wikidata,,Q2297616,way
+Dulle-Grietlaan,wikidata,,Q686236,way
 Dwergkerspad,wikidata,,Q21378753,way
 Dwergmuispad,wikidata,,Q209516,way
 Dwergvleermuispad,wikidata,,Q221381,way
@@ -60,6 +62,7 @@ Edelsteenstraat,wikidata,,Q4990682,way
 Eeklostraat,wikidata,,Q12440,way
 Egelantierstraat,wikidata,,Q15546415,way
 Eksterstraat,wikidata,,Q25307,way
+Elfnovemberstraat,wikidata,,Q6597183,way
 Esperantostraat,wikidata,,Q143,way
 Europalaan,wikidata,,Q46,way
 Evergemsesteenweg,wikidata,,Q12997,way
@@ -67,6 +70,7 @@ Evergemsesteenweg,wikidata,,Q12997,way
 Firapeelpad,wikidata,,Q123668328,way
 Fitispad,wikidata,,Q27239,way
 Floraliënlaan,wikidata,,Q1854972,way
+Fluweelstraat,wikidata,,Q243519,way
 Fuchsiastraat,wikidata,,Q161066,way
 "Gebroeders Van Eyckstraat",wikidata,,Q77577637,way
 Geelgorsstraat,wikidata,,Q26205,way
@@ -90,6 +94,7 @@ Hagedisstraat,wikidata,,Q15629245,way
 Hagedoornlaan,wikidata,,Q132557,way
 Halewijnstationstraat,wikidata,,Q2144918,way
 Halewijnstraat,wikidata,,Q1949592,way
+Handbalstraat,wikidata,,Q8418,way
 Harelbekestraat,wikidata,,Q31824027,way
 Havikstraat,wikidata,,Q25353,way
 Helsinkistraat,wikidata,,Q1757,way
@@ -102,6 +107,7 @@ Hertstraat,wikidata,,Q2303588;Q2303588;Q23390,way
 Hoornbladstraat,wikidata,,Q21795,way
 Hortensiastraat,wikidata,,Q155997,way
 Houtduifstraat,wikidata,,Q26026,way
+Hundelgemsesteenweg,wikidata,,Q3111657,way
 Hutsepotstraat,wikidata,,Q2592256,way
 Isegrimstraat,wikidata,,Q26271672,way
 Jadestraat,wikidata,,Q175089,way
@@ -109,6 +115,7 @@ Jakobijnenstraat,wikidata,,Q179885,way
 Jasmijnstraat,wikidata,,Q82014,way
 Jaspisstraat,wikidata,,Q201175,way
 Jupiterstraat,wikidata,,Q319,way
+Jutestraat,wikidata,,Q107211,way
 Kaasjeskruidpad,wikidata,,Q147325,way
 Kamperfoelielaan,wikidata,,Q156047,way
 Kanazawastraat,wikidata,,Q191130,way
@@ -153,6 +160,7 @@ Lisdoddestraat,wikidata,,Q145707,way
 Liverpoolstraat,wikidata,,Q24826,way
 Lobeliastraat,wikidata,,Q158182,way
 Londenstraat,wikidata,,Q84,way
+"Maagd van Gentstraat",wikidata,,Q116234779,way
 Maïsstraat,wikidata,,Q11575,way
 Malachietstraat,wikidata,,Q164411,way
 Malpertuusplein,wikidata,,Q1887160,way
@@ -220,8 +228,11 @@ Rugbylaan,wikidata,,Q5378,way
 Saffierstraat,wikidata,,Q127583,way
 Salamanderstraat,wikidata,,Q53663,way
 Santosstraat,wikidata,,Q84,way
+Satijnstraat,wikidata,,Q14298,way
+Scaldisstraat,wikidata,,Q116234451;Q37620,way
 Sijsjeslaan,wikidata,,Q27075864,way
 Silexstraat,wikidata,,Q83087,way
+Sint-Lievenspoortstraat,wikidata,,Q2630477,way
 Sint-Michielshelling,wikidata,,Q45581,way
 Sint-Michielsplein,wikidata,,Q45581,way
 Sint-Michielsstraat,wikidata,,Q45581,way
@@ -579,7 +590,6 @@ Cipresdreef,,,,way
 Citadellaan,,,,way
 Citroenstraat,,,,way
 Claragoed,,,,way
-Clarissenstraat,,,,way
 Clematisstraat,,,,way
 Concordiastraat,,,,way
 Conduitsteeg,,,,way
@@ -680,7 +690,6 @@ Duivelsteeg,,,,way
 Duiverstraat,,,,way
 Duivestaartwegel,,,,way
 Dukkeldamstraat,,,,way
-Dulle-Grietlaan,,,,way
 Durmeschipstraat,,,,way
 Durmmeersplein,,,,way
 Durmmeersstraat,,,,way
@@ -711,7 +720,6 @@ Ekkergemstraat,,,,way
 Eksaardserijweg,,,,way
 Eksmere,,,,way
 Elfjulistraat,,,,way
-Elfnovemberstraat,,,,way
 Elsakker,,,,way
 Elshoekstraat,,,,way
 Elshout,,,,way
@@ -740,6 +748,7 @@ Faltselestraat,,,,way
 Fazantstraat,,,,way
 Fibulahof,,,,way
 Fibulaplein,,,,way
+"Fietsbrug Buntstraat",,,,way
 "Fietssnelweg F40",,,,way
 Filaturestraat,,,,way
 "Finse Piste",,,,way
@@ -752,7 +761,6 @@ Flonkedreef,,,,way
 Florastraat,,,,way
 Floridastraat,,,,way
 Floristenstraat,,,,way
-Fluweelstraat,,,,way
 Fohrstraat,,,,way
 Fonteineplein,,,,way
 Fonteyneputpleintje,,,,way
@@ -912,7 +920,6 @@ Hamburgstraat,,,,way
 Hamerlandtragel,,,,way
 Hamerstraat,,,,way
 Hammerikstraat,,,,way
-Handbalstraat,,,,way
 Handekenskruidstraat,,,,way
 Handelsdokkaai,,,,way
 Haringsteeg,,,,way
@@ -940,6 +947,7 @@ Heiebreestraat,,,,way
 Heilig-Bloedstraat,,,,way
 Heilig-Hartplein,,,,way
 Heilig-Hartstraat,,,,way
+Heilig-Kruisplein,,,,way
 Heilig-Sacramentstraat,,,,way
 Heilige-Geeststraat,,,,way
 Heilighuisdreef,,,,way
@@ -1028,7 +1036,6 @@ Hulsdonk,,,,way
 Hulstboomstraat,,,,way
 Hulsterlostraat,,,,way
 Hulststraat,,,,way
-Hundelgemsesteenweg,,,,way
 Hurstweg,,,,way
 Huttestraat,,,,way
 Huurhouderijstraat,,,,way
@@ -1077,11 +1084,9 @@ Jongenstragel,,,,way
 "Jonkvrouw Mattestraat",,,,way
 Joremaaie,,,,way
 Jovastraat,,,,way
-"Jozef Vercoulliestraat - Dokter Jean Vercouilliestraat",,,,way
 Jozefienenstraat,,,,way
 Jubileumlaan,,,,way
 Judoweg,,,,way
-Jutestraat,,,,way
 Kaaksmetestraat,,,,way
 Kaarderijstraat,,,,way
 Kaatsspelplein,,,,way
@@ -1243,6 +1248,7 @@ Korenveldstraat,,,,way
 Korfdragerstraat,,,,way
 Korhoenstraat,,,,way
 Korianderstraat,,,,way
+"Korte Kerkstraat",,,,way
 "Korte Kruisstraat",,,,way
 "Korte Magerstraat",,,,way
 "Korte Mate",,,,way
@@ -1252,7 +1258,6 @@ Korianderstraat,,,,way
 Kortedagsteeg,,,,way
 Kortedreef,,,,way
 Korteheerweg,,,,way
-Kortekerkstraat,,,,way
 Kortemunt,,,,way
 Kortevorepad,,,,way
 Kortrijksepoortstraat,,,,way
@@ -1407,7 +1412,6 @@ Luiklaan,,,,way
 Lusthoflaan,,,,way
 Luxemburgstraat,,,,way
 Luzulapad,,,,way
-"Maagd van Gentstraat",,,,way
 Maagdestraat,,,,way
 Maalderijstraat,,,,way
 Maalgaver,,,,way
@@ -1639,7 +1643,7 @@ Orchideestraat,,,,way
 Ossenstraat,,,,way
 Ottergemsesteenweg-Zuid,,,,way
 Ottogracht,,,,way
-Oud-Moorghemstraat,,,,way
+Oud-Mooreghemstraat,,,,way
 Oud-Strijderslaan,,,,way
 Oudburg,,,,way
 "Oude Akker",,,,way
@@ -1717,6 +1721,7 @@ Perzikstraat,,,,way
 Petuniastraat,,,,way
 Phoenixonderdoorgang,,,,way
 Piereputstraat,,,,way
+"Pierre De Vaerestraat",,,,way
 "Pieter Van Vynckstraat",,,,way
 Pijkestraat,,,,way
 Pijlstraat,,,,way
@@ -1795,6 +1800,7 @@ Reep,,,,way
 Regattenlaan,,,,way
 Regenboog,,,,way
 Regnessestraat,,,,way
+Reigerspark,,,,way
 Reigerstraat,,,,way
 Reigersvlietweg,,,,way
 Reinaertstraat,,,,way
@@ -1803,7 +1809,6 @@ Rekelingestraat,,,,way
 Renbaanstraat,,,,way
 Rendelgat,,,,way
 Renpaardlaan,,,,way
-"Rerum Novarumplein",,,,relation
 Resedastraat,,,,way
 Ridderstraat,,,,way
 Riemekaai,,,,way
@@ -1874,10 +1879,8 @@ Santospad,,,,way
 Sassekaai,,,,way
 Sassevaartstraat,,,,way
 Sasstraat,,,,way
-Satijnstraat,,,,way
 Savaanstraat,,,,way
 Scalastraat,,,,way
-Scaldisstraat,,,,way
 Scandinaviëstraat,,,,way
 Schaapdries,,,,way
 Schaapdriespad,,,,way
@@ -1954,13 +1957,11 @@ Sint-Jansdreef,,,,way
 Sint-Jansvest,,,,way
 Sint-Kruis-Winkeldorp,,,,way
 Sint-Liesbetsteeg,,,,way
-Sint-Lievenspoortstraat,,,,way
 Sint-Martensblindeken,,,,way
 Sint-Pietersaalststraat,,,,way
 Sint-Vincentiusplein,,,,way
 Sint-Widostraat,,,,way
 Sisalstraat,,,,way
-Skaldenbrug,,,,way
 Skaldenstraat,,,,way
 Skiweg,,,,way
 Slachthuisstraat,,,,way
@@ -2164,6 +2165,7 @@ Varendriesstraat,,,,way
 Varenstraat,,,,way
 Varkensstraat,,,,way
 Veenakkerpad,,,,way
+Veergrep,,,,way
 Veerkaai,,,,way
 Veermanplein,,,,way
 Veerpontstraat,,,,way
