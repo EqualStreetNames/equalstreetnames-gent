@@ -2,6 +2,7 @@ name,source,gender,wikidata,type
 "Albertina Sisulubrug",wikidata,F,Q467744,way
 Aleydispad,wikidata,F,Q100452254,way
 "Alice Béviairepad",wikidata,F,Q69575062,way
+"Alice Coachmanpad",wikidata,F,Q270922,way
 "Alijt Bakehof",wikidata,F,Q19680805,way
 "Amanda Foketstraat",wikidata,F,Q77582580,way
 "Amelia Earhartlaan",wikidata,F,Q3355,way
@@ -31,6 +32,7 @@ Aleydispad,wikidata,F,Q100452254,way
 "Euphrasie Verbrugghepad",wikidata,F,Q98538755,way
 "Frieda Saeysstraat",wikidata,F,Q22350893,way
 "Gatti de Gamondstraat",wikidata,F,Q2407913,way
+"Germaine Van Meenenpad",wikidata,F,Q134739504,way
 "Gertrude Elionpad",wikidata,F,Q35703,way
 "Gerty Corihof",wikidata,F,Q204733,way
 "Gilberte Boydensstraat",wikidata,F,Q132125081,way
@@ -86,6 +88,7 @@ Maria-Theresiastraat,wikidata,F,Q131706,way
 "Marie Schellinckstraat",wikidata,F,Q2817220,way
 "Marie-Jeanne Boelenspad",wikidata,F,Q124516029,way
 "Marie-Thérèse de Courtebournelaan",wikidata,F,Q98807807,way
+"Marieke Vervoortpad",wikidata,F,Q2719376,way
 "Martha Anthonisstraat",wikidata,F,Q98398345,way
 "Martha Grypstraat",wikidata,F,Q98446694,way
 "Marthe Versichelenstraat",wikidata,F,Q21517986,way
@@ -461,6 +464,7 @@ Florbertusstraat,wikidata,M,Q2693633,way
 "Jules Destréelaan",wikidata,M,Q522308,way
 "Jules Destréelaan 67",wikidata,M,Q522308,way
 "Jules Mac Leodstraat",wikidata,M,Q2010726,way
+"Jules Ottenpad",wikidata,M,Q134739447,way
 "Jules Persynstraat",wikidata,M,Q2140939,way
 "Jules Van Biesbroeckstraat",wikidata,M,Q1711749,way
 "Jules de Bruyckerdreef",wikidata,M,Q2972187,way
@@ -495,6 +499,7 @@ Florbertusstraat,wikidata,M,Q2693633,way
 "Leo Baekelandstraat",wikidata,M,Q243442,way
 "Leo Tertzweillaan",wikidata,M,Q98735438,way
 "Leon De Loofstraat",wikidata,M,Q98819715,way
+"Léon Mokunapad",wikidata,M,Q15839289,way
 "Leon Sarteelplein",wikidata,M,Q21396055,way
 "Leon Sarteelstraat",wikidata,M,Q21396055,way
 "Leonard De Laviestraat",wikidata,M,Q98735257,way
@@ -566,6 +571,7 @@ Lothariusstraat,wikidata,M,Q150735,way
 "Philippus van der Nootstraat",wikidata,M,Q15880683,way
 "Philips Landsbergiuslaan",wikidata,M,Q959953,way
 "Pierre De Geyterstraat",wikidata,M,Q279103,way
+"Pierre De Vaerestraat",wikidata,M,Q135103396,way
 "Pieter Brueghellaan",wikidata,M,Q43270,way
 "Pieter Cieterslaan",wikidata,M,Q100271505,way
 "Pieter Colpaertsteeg",wikidata,M,Q76797345,way
@@ -595,6 +601,7 @@ Lothariusstraat,wikidata,M,Q150735,way
 Rerum-Novarumplein,wikidata,M,Q764378,relation+way
 "Robert Rinskopflaan",wikidata,M,Q18001719,way
 "Rogier van der Weydenlaan",wikidata,M,Q68631,way
+"Roland Stormepad",wikidata,M,Q3356098,way
 "Romain Clausstraat",wikidata,M,Q98780572,way
 "Romain Deconinckplein",wikidata,M,Q2521994,way
 "Rombaut Keldermansstraat",wikidata,M,Q2165053,way

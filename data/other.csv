@@ -31,6 +31,7 @@ Bosduifstraat,wikidata,,Q26026,way
 Bosrietzangerpad,wikidata,,Q210422,way
 Bosstraat,wikidata,,Q48569604,way
 Bosuilstraat,wikidata,,Q25756,way
+Braemkasteelstraat,wikidata,,Q2097492,way
 Brankardierstraat,wikidata,,Q2923662,way
 Brugsesteenweg,wikidata,,Q12994,way
 Brugsevaart,wikidata,,Q12994,way
@@ -47,6 +48,7 @@ Dahliastraat,wikidata,,Q130918,way
 "De Pintelaan",wikidata,,Q21768637;Q842454,way
 Deinsesteenweg,wikidata,,Q499313,way
 "Den Bellaertbrug",wikidata,,Q122852519,way
+Destelbergenstraat,wikidata,,Q3177595,way
 Desteldonkstraat,wikidata,,Q1988333,way
 Diamantstraat,wikidata,,Q5283,way
 Dierentuinlaan,wikidata,,Q2303588,way
@@ -230,6 +232,7 @@ Salamanderstraat,wikidata,,Q53663,way
 Santosstraat,wikidata,,Q84,way
 Satijnstraat,wikidata,,Q14298,way
 Scaldisstraat,wikidata,,Q116234451;Q37620,way
+Scheldestraat,wikidata,,Q37620,way
 Sijsjeslaan,wikidata,,Q27075864,way
 Silexstraat,wikidata,,Q83087,way
 Sint-Lievenspoortstraat,wikidata,,Q2630477,way
@@ -263,6 +266,7 @@ Verzetspad,wikidata,,Q122852678,way
 "Victoria Regiapark",wikidata,,Q33130427,way
 Vinderhoutsedam,wikidata,,Q1841810,way
 Vinkenlaan,wikidata,,Q160835,way
+Vlaaienpad,wikidata,,Q135103632,way
 Vlasmarkt,wikidata,,Q45108,way
 Voetbalstraat,wikidata,,Q2736,way
 Wielewaalstraat,wikidata,,Q25388,way
@@ -487,7 +491,6 @@ Bollebergen,,,,way
 Bollewerkstraat,,,,way
 Bomastraat,,,,way
 Bombardementstraat,,,,way
-Bombaystraat,,,,way
 Bommelstraat,,,,way
 Bonifantenstraat,,,,relation
 "Bonte Mantelstraat",,,,way
@@ -516,7 +519,6 @@ Braambezielaan,,,,way
 Braamtweg,,,,way
 Brabantdam,,,,way
 Braderijstraat,,,,way
-Braemkasteelstraat,,,,way
 Braemstraat,,,,way
 Bragistraat,,,,way
 Brakepad,,,,way
@@ -574,7 +576,6 @@ C-Wegel,,,,way
 Campinglaan,,,,way
 Campo-Santoplein,,,,way
 Campusstraat,,,,way
-Canadastraat,,,,way
 Carelsplein,,,,way
 Cargadoorstraat,,,,way
 Casinoplein,,,,way
@@ -628,7 +629,6 @@ Dendermondedoorgang,,,,way
 Dendermondsesteenweg,,,,relation
 Dennenlaan,,,,way
 Derbystraat,,,,way
-Destelbergenstraat,,,,way
 Desteldonkdorp,,,,way
 "Dienstenzone Drongen-Noord",,,,way
 "Dienstenzone Drongen-Zuid",,,,way
@@ -1556,7 +1556,7 @@ Nelestraat,,,,way
 Neringstraat,,,,way
 Neststraat,,,,way
 Neuseplein,,,,way
-"Nevelse Heerweg",,,,way
+Nevelseheerweg,,,,way
 New-Yorkstraat,,,,way
 Nieuwbrugkaai,,,,way
 Nieuwebosstraat,,,,way
@@ -1721,7 +1721,6 @@ Perzikstraat,,,,way
 Petuniastraat,,,,way
 Phoenixonderdoorgang,,,,way
 Piereputstraat,,,,way
-"Pierre De Vaerestraat",,,,way
 "Pieter Van Vynckstraat",,,,way
 Pijkestraat,,,,way
 Pijlstraat,,,,way
@@ -1902,7 +1901,6 @@ Scheepzatestraat,,,,way
 Scheldekaai,,,,way
 Scheldekanaaltragel,,,,way
 Scheldelindeweg,,,,way
-Scheldestraat,,,,way
 Schepenenvijverstraat,,,,way
 Schepenhuisstraat,,,,way
 Schepenstraat,,,,way
@@ -2024,6 +2022,7 @@ Spitaalpoortstraat,,,,way
 Spoelbotenstraat,,,,way
 Spoorwegdijkpad,,,,way
 Spoorwegstraat,,,,way
+Spoorwegzate,,,,way
 Sporewegel,,,,way
 Sportstraat,,,,way
 Sprendonkstraat,,,,way
@@ -2212,7 +2211,6 @@ Visdiefpad,,,,way
 Visitatiestraat,,,,way
 Visserij,,,,way
 Vissersdijk,,,,way
-Vlaaienpad,,,,way
 Vlaamse-Hefboomweg,,,,way
 Vlaamsekaai,,,,way
 Vlaanderenstraat,,,,way
