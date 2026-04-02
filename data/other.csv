@@ -299,7 +299,6 @@ C-Wegel,,,,way
 Campinglaan,,,,way
 Campo-Santoplein,,,,way
 Campusstraat,,,,way
-Carelsplein,,,,way
 Cargadoorstraat,,,,way
 Casinoplein,,,,way
 Cederstraat,,,,way
@@ -764,7 +763,6 @@ IJzendijkestraat,,,,way
 IJzerlaan,,,,way
 IJzertijdhof,,,,way
 IJzertijdweg,,,,way
-IJzerweglaan,,,,way
 Ibisstraat,,,,way
 Idealstraat,,,,way
 Idewallepad,,,,way
@@ -1201,7 +1199,6 @@ Metselaarsstraat,,,,way
 Meulenaarshoek,,,,way
 Meulenbilkstraat,,,,way
 Meulenbroekstraat,,,,way
-Meulestedebrug,,,,way
 Meulestedekaai,,,,way
 Meulesteedsesteenweg,,,,way
 Meuleweg,,,,way
@@ -1397,6 +1394,7 @@ Pachtgoeddreef,,,,way
 Pacificatielaan,,,,way
 Paddelstraat,,,,way
 Paddenhoek,,,,way
+Padoekstraat,,,,way
 Pakhuisstraat,,,,way
 Pakketbootpad,,,,way
 Palinghuizen,,,,way
@@ -1824,6 +1822,7 @@ Tichelrei,,,,way
 Tiebaertsteeg,,,,way
 Tienmeterstraat,,,,way
 Tij-Armpad,,,,way
+"Tijdelijke oprit Desteldonk",,,,way
 Tijgerlelielaan,,,,way
 Tijkstraat,,,,way
 Tijmstraat,,,,way
@@ -2059,6 +2058,7 @@ Wilgestraat,,,,way
 Wilgetronkstraat,,,,way
 Windgat,,,,way
 Windmolenstraat,,,,way
+Windvaanplein,,,,way
 Winkelgate,,,,way
 Winkelkouterpad,,,,way
 Winkelstraat,,,,way
@@ -2156,3 +2156,5 @@ Zwembadstraat,,,,way
 Zwijnaardemeerspad,,,,way
 "Zwijnaardse Dries",,,,way
 Zwijndonkloop,,,,way
+koestraat,,,,way
+paddenhoek,,,,way
